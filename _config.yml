@@ -1,6 +1,7 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: Fanghao Chen
+tagline: Fanghao Chen. PhD. National School of Development of Peking University. Urban Economics. Industrial Organization. Development Economics. Multinational Enterprises. Faculty. Professor.
+logo: /assets/img/ccer.png
+description: I'm a PhD candidate at National School of Development (formerly known as CCER) of Peking University.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
