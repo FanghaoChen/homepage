@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/FanghaoChen/homepage/edit/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 [homework](./assets/课程小论文_1600010675_尝试_2020-12-19-10-37-37_中经专小论文-徐士奥-1600010675.docx)
-[cv](./assets/CV_FanghaoChen_201022)
+[CV](./assets/CV_FanghaoChen_201022.pdf)
 
 ### Markdown
 
