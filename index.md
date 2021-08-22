@@ -8,7 +8,7 @@ Welcome! I'm a Ph.D. candidate in the National School of Development at Peking U
 
 My research fields are development economomics, urban economics, and industrial organization. I'm commmitted to understanding the foundation, proliferation, and evolution of industrial clusters in contemporary China. My current focuses are how Overseas Chinese planted the seed investments and facilitated the transition of China toward an open, market-oriented and properous economy. You can find my job market paper, _Familiar Strangers: Overseas Chinese, Lineage Connection and Foreign Firms in China_, [here](./assets/JMP_210811.pdf). 
 
-For more information about me, please refer to my [CV](./assets/FanghaoChen_AcademiaCV_eng-210821.pdf). 
+For more information, please refer to my [CV](./assets/FanghaoChen_AcademiaCV_eng-210821.pdf). 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
