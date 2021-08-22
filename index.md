@@ -4,7 +4,7 @@ layout: default
 
 [HOME](./). [CV](./assets/FanghaoChen_AcademiaCV_eng-210821.pdf). [RESEARCH](./research.md). [TEACHING](./teaching.md). [中文](./Chinese.md). [PERSONAL](./personal.md).
 
-Welcome! I'm a Ph.D. candidate in the National School of Development at Peking University. _**I'm seeking an academic position and available throughout the job market season 2021 Fall to 2022 Spring.**_ 
+Welcome! I'm a Ph.D. candidate in the National School of Development at Peking University. _**I'm seeking an academic position and available through the job market season 2021 Fall to 2022 Spring.**_ 
 
 My research fields are development economomics, urban economics, and industrial organization. I'm commmitted to understanding the foundation, proliferation, and evolution of industrial clusters in contemporary China. My current focuses are how Overseas Chinese planted the seed investments and facilitated the transition of China toward an open, market-oriented and properous economy. You can find my job market paper, _Familiar Strangers: Overseas Chinese, Lineage Connection and Foreign Firms in China_, [here](./assets/JMP_210811.pdf). 
 
