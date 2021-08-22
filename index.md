@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[HOME](./). [CV](./assets/files/cv.pdf). [RESEARCH](./research.md). [TEACHING](./teaching.md). [中文](./Chinese.md).
+[**HOME**](./). [CV](./assets/FanghaoChen_AcademiaCV_eng_210821.pdf). [**RESEARCH**](./research.md). [TEACHING](./teaching.md). [中文](./Chinese.md).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
