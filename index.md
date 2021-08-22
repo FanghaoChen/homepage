@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[HOME](./). [CV](./assets/files/cv.pdf). [RESEARCH](./research.md). [TEACHING](./teaching.md). [中文](./Chinese.md).
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
