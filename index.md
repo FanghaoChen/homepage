@@ -6,7 +6,7 @@ layout: default
 
 Welcome! I'm a Ph.D. candidate in the National School of Development at Peking University. _I am available throughout the job market season 2021 Fall to 2022 Spring._ 
 
-My research fields are development economomics, urban economics, and industrial organization. I am commmitted to understanding the seeds, proliferation, and evolution of industrial clusters in China. My current focuses are how Overseas Chinese facilitated the transition of China toward an open, market-oriented and properous economy. You can find my job market paper, _Familiar Strangers: Overseas Chinese, Lineage Connection and Foreign Firms in China_, [here](./assets/JMP_210820.pdf). 
+My research fields are development economomics, urban economics, and industrial organization. I am commmitted to understanding the foundation, proliferation, and evolution of industrial clusters in China. My current focuses are how Overseas Chinese facilitated the transition of China toward an open, market-oriented and properous economy. You can find my job market paper, _Familiar Strangers: Overseas Chinese, Lineage Connection and Foreign Firms in China_, [here](./assets/JMP_210820.pdf). 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
