@@ -14,7 +14,7 @@ Entertainment Commerce, Incentive Design<br/>
 Natural Language Processing, Causal Inference
 -->
 
-#### working papers:
+#### Job Market Paper:
 
 <ins>**First Law of Motion: <br/>
 Influencer Video Advertising on TikTok**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
