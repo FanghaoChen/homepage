@@ -19,6 +19,26 @@ Abstract: This paper studies the importance of international lineage network in 
 
 ### Working Papers:
 
-**禀赋结构一致的技术调整 技术可转换性、人力资本与结构转型** [[Paper](./http://www.cnki.com.cn/Article/CJFDTOTAL-GLSJ201712009.htm)] <br/>
+**禀赋结构一致的技术调整 技术可转换性、人力资本与结构转型** [[Paper](./techchange_paper.pdf)] <br/>
 **陈方豪**<sup>*</sup>，樊仲琛 <br/>
-**R&R at 《经济学（季刊）》** 
+**R&R at 《经济学(季刊)》** 
+
+**突破城市发展的边界 撤县设区的影响及其机制** [[Paper](./annex_paper.pdf)] <br/>
+**陈方豪**<sup>*</sup>，叶菁菁
+
+**Annexation for Agglomeration: From a Neighbor to a Family Member** <br/>
+**Fanghao Chen**<sup>*</sup>，Shihe Fu，Jingjing Ye
+
+**Military Entrepreneurship** <br/>
+**Fanghao Chen**<sup>*</sup>，Xiaobo Zhang, Colin Xu
+
+### Selected Works in Progress:
+
+**Industrial Evolution in China** <br/>
+Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
+
+**From Kinship to Market: FDI and the Building of Market Institution in China** <br/>
+**Fanghao Chen**<sup>*</sup>, Ruichi Xiong
+
+**Seeding the Growth: FDI and Local Entrepreneurship** <br/>
+**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
