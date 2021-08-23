@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[HOME](./index.md) | [CV](./assets/FanghaoChen_AcademiaCV_eng-210823.pdf) | [**RESEARCH**](./) | [TEACHING](./teaching.md) | [中文](./Chinese.md) | [LINKS](./links.md)
+[HOME](./index.md) | [CV](./assets/FanghaoChen_AcademiaCV_eng-210823.pdf) | [**RESEARCH**](./) | [TEACHING](./teaching.md) | [中文](./Chinesepage.md) | [LINKS](./links.md)
 
 ## Job Market Paper:
 
