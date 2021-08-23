@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[**HOME**](./) | [CV](./assets/FanghaoChen_AcademiaCV_eng-210821.pdf) | [RESEARCH](./research.md) | [TEACHING](./teaching.md) | [中文](./Chinese.md) | [PERSON](./person.md)
+[**HOME**](./) | [CV](./assets/FanghaoChen_AcademiaCV_eng-210821.pdf) | [RESEARCH](./research.md) | [TEACHING](./teaching.md) | [中文](./Chinese.md) | [LINKS](./links.md)
 
 Welcome! I'm a Ph.D. candidate in the National School of Development at Peking University. _**I'm seeking an academic position and available through the job market season 2021 Fall to 2022 Spring.**_ 
 
