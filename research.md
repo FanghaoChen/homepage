@@ -4,21 +4,11 @@ layout: default
 
 [HOME](./index.md) | [CV](./assets/FanghaoChen_AcademiaCV_eng-210821.pdf) | [**RESEARCH**](./) | [TEACHING](./teaching.md) | [中文](./Chinese.md) | [PERSON](./person.md)
 
-### research 
-
-<!--
-#### general interests:
-<ins>Topic:</ins> Video Advertising, Targeting Interventions, <br/>
-Entertainment Commerce, Incentive Design<br/>
-<ins>Method:</ins> Computer Vision, Reinforcement Learning, <br/>
-Natural Language Processing, Causal Inference
--->
-
 #### Job Market Paper:
 
-<ins>**First Law of Motion: <br/>
-Influencer Video Advertising on TikTok**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
-**Jeremy Yang**<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
+<ins>**Familiar Strangers: <br/>
+Overseas Chinese, Lineage Connection and Foreign Firms in China**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
+**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
 <!-- \- _Job Market Paper_<br/> -->
 
