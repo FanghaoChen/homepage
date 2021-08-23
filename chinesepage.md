@@ -1,6 +1,6 @@
 [HOME](./index.md) | [CV](./assets/FanghaoChen_AcademiaCV_eng-210823.pdf) | [RESEARCH](./research.md) | [TEACHING](./) | [**中文**](./Chinese.md) | [LINKS](./links.md)
 
-### 陈方豪
+# 陈方豪
 
 北京大学国家发展研究院2017级博士研究生，多伦多大学访问学者；主要研究领域为发展经济学、城市经济学、产业组织等。现有学术论文发表于《管理世界》，并有多篇论文在高水平期刊处于审稿或返修阶段（R&R）。
 
