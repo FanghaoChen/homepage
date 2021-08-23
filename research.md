@@ -13,3 +13,6 @@ Abstract: This paper studies the importance of international lineage network in 
 
 ### Publications:
   
+**个人所得税减免会增加劳动供给吗?——来自准自然实验的证据** [[Paper](./http://www.cnki.com.cn/Article/CJFDTOTAL-GLSJ201712009.htm)]
+叶菁菁，吴燕，**陈方豪**<sup>*</sup>，王宇晴  
+_**管理世界**_ , 2017, 12, 20-32
