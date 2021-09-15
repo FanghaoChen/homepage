@@ -4,4 +4,4 @@ I'm fortuante to have my training supervised by [Xiaobo Zhang](https://www.nsd.p
 
 I'm affiliated with [_Center for Enterprise Research_](https://www.cer.pku.edu.cn/) at Peking University and co-supervise _Enterprise Survey for Innovation and Entrepreneurship in China_ (ESIEC), a project aiming to maintain and update a random-sampled and national-representative longitude data set of small-and-medium-sized enterprises (SME) and their entrepreneurs in China in regard to SMEs’ start-ups, operation, performance, and growth.
 
-I'm interested in working with more scholars and Ph.D. students who share similar interest or can access unique data sets to develop new research projects.
+I'm interested in working with more scholars and Ph.D. students who share similar interests or can access unique data sets to develop new research projects.
