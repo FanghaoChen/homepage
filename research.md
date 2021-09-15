@@ -25,6 +25,7 @@ Abstract: This paper studies the importance of international lineage network in 
 
 **突破城市发展的边界: 撤县设区的影响及其机制** [[Paper](./assets/annex_paper.pdf)] <br/>
 **陈方豪**<sup>*</sup>，叶菁菁
+**Revision Requested by 《经济学(季刊)》** 
 
 **Annexation for Agglomeration: From a Neighbor to a Family Member** <br/>
 **Fanghao Chen**<sup>*</sup>, Shihe Fu, Jingjing Ye
