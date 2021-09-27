@@ -17,7 +17,7 @@ Abstract: This paper studies the importance of international lineage network in 
 叶菁菁，吴燕，**陈方豪**<sup>*</sup>，王宇晴 <br/>
 **《管理世界》** , 2017, 12, 20-32
 
-### Working Papers:
+## Working Papers:
 
 **禀赋结构一致的技术调整: 技术可转换性、人力资本与结构转型** [[Paper](./assets/techchange_paper.pdf)] <br/>
 **陈方豪**<sup>*</sup>，樊仲琛 <br/>
