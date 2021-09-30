@@ -1,4 +1,4 @@
-[HOME](./index.md) | [CV](./assets/FanghaoChen_AcademiaCV_eng-210927.pdf) | [RESEARCH](./research.md) | [TEACHING](./) | [**中文**](./) | [LINKS](./links.md)
+[HOME](./index.md) | [CV](./assets/FanghaoChen_AcademicCV_eng-210930.pdf) | [RESEARCH](./research.md) | [TEACHING](./) | [**中文**](./) | [LINKS](./links.md)
 
 # 陈方豪
 
@@ -6,7 +6,7 @@
 
 我的研究主线是中国产业的起源、扩张与演化, 尤其关注其中的行业异质性。当前的研究兴趣为改革开放后作为先驱投资者的海外侨商在中国大陆投资的历史演变、决定因素与长期影响。我的求职论文“Familiar Strangers: Overseas Chinese, Lineage Connection and Foreign Firms in China”可以点击[这里](./assets/JMP_210811.pdf)查看。
 
-更多关于我的信息，可以参见我的[中文简历](./assets/FanghaoChen_AcademiaCV_chn-210927.pdf)。
+更多关于我的信息，可以参见我的[中文简历](./assets/陈方豪_北大国发院_210930.pdf)。
 
 ## 经济学科普
 
