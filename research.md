@@ -6,7 +6,7 @@ layout: default
 
 ## Job Market Paper:
 
-**Familiar Strangers: Overseas Chinese, Lineage Connection and Foreign Investments in China** [[Paper]] [[Slides](./assets/familiar_stranger_slides_210925.pdf)]<br/>
+**Familiar Strangers: Overseas Chinese, Lineage Connection and Foreign Investments in China** [Paper] [[Slides](./assets/familiar_stranger_slides_210925.pdf)]<br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
 Abstract: This paper studies the importance of international lineage network in facilitating the entry of foreign firms in developing countries where immature market deters foreign investments. We build a unique dataset on the universe of foreign firms in China that are controlled by Huaren (overseas Chinese) whose surnames are used to infer their lineage group. To identify the causal effects of lineage connection, we implement a Difference-in-Difference design exploiting variations from both the staggered timings of opening shocks during the Reform Era (1981-1996) and differential surname distributions across prefectures, which allows us to control for unobserved factors at various levels. We find that, following the local opening shocks, lineage connection facilitates the entry of Huaren foreign firms, through reducing information frictions and strengthening contract enforcement. Such effects are not likely to be driven by selective entry of more able Huaren entrepreneurs, and are robust to various robustness checks. We also find that the lineage-driven FDI during early development stages functions as industrial seeds and led to persistently more foreign investments in the long run.
