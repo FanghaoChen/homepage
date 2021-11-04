@@ -6,7 +6,7 @@
 
 我的研究主线是中国产业的起源、扩张与演化, 尤其关注其中的行业异质性。当前的研究兴趣为改革开放后作为先驱投资者的海外侨商在中国大陆投资的历史演变、决定因素与长期影响。我的求职论文“Familiar Strangers: Overseas Chinese, Lineage Connection and Foreign Investments in China”可以点击[这里](./assets/JMP_211025.pdf)查看。
 
-更多关于我的信息，可以参见我的[中文简历](./assets/陈方豪_北大国发院_211023.pdf)。
+更多关于我的信息，可以参见我的[中文简历](./assets/陈方豪_北大国发院_211104.pdf)。
 
 ## 经济学科普
 
