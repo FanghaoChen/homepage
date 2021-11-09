@@ -4,7 +4,7 @@
 
 北京大学国家发展研究院2017级博士研究生，多伦多大学访问学者；主要研究领域为发展经济学、国际贸易、城市经济学、产业组织等；现有学术论文发表于《管理世界》，并有多篇论文在高水平期刊处于审稿或返修阶段（R&R）。
 
-我的研究主线是中国产业的起源、扩张与演化, 尤其关注其与中国不断深化参与国际贸易与投资之间的关系。当前的研究兴趣为改革开放后作为先驱投资者的海外侨商在中国大陆投资的历史演变、决定因素与长期影响。我的求职论文“Familiar Strangers: Overseas Chinese, Lineage Connection and Foreign Investments in China”可以点击[这里](./assets/JMP_211104.pdf)查看。
+我的研究主线是中国产业的起源、扩张与演化, 尤其关注其与中国不断深化参与的国际贸易与跨国投资之间的关系。当前的研究兴趣为改革开放后作为先驱投资者的海外侨商在中国大陆投资的历史演变、决定因素与长期影响。我的求职论文“Familiar Strangers: Overseas Chinese, Lineage Connection and Foreign Investments in China”可以点击[这里](./assets/JMP_211104.pdf)查看。
 
 更多关于我的信息，可以参见我的[中文简历](./assets/陈方豪_北大国发院_211104.pdf)。
 
