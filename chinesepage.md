@@ -10,11 +10,13 @@
 
 ## 经济学科普
 
-在业余时间，我喜欢在社交网络和自媒体撰写经济学科普性文章。内容注重经济学前沿理论与方法论的通俗化介绍，以及对中国经济的量化分析。我目前是著名知识分享平台[知乎](https://www.zhihu.com/people/hongo-chin)经济学领域的优秀答主之一。
+在业余时间，我喜欢在社交媒体撰写经济学科普性文章，内容注重经济学前沿理论与方法论的通俗化介绍，以及对中国经济的量化分析。我目前为公众号平台“远川出海研究”（入选2021年上海市“中华文化走出去”专项扶持资金的“全球叙事能力建设”板块）供稿，还是著名知识分享平台[知乎](https://www.zhihu.com/people/hongo-chin)经济学领域的优秀答主之一。
 
 精选原创杂文：<br/>
 [《谁是Mr. Tan: 揭秘华人姓氏的英文拼写》](./assets/MrTan.pdf)，2021年7月 <br/>
 [《关于经济学方法论的探讨——对六组“二律背反” 命题的解答》](./assets/EconMethodology.pdf)，2020年12月 <br/>
 [《方向初探：发展经济学》](./assets/GuideToDevEcon.pdf)，2020年3月 <br/>
 
-
+出海小镇系列：<br/>
+[《白沟镇何以成为世界包都？》](https://mp.weixin.qq.com/s?__biz=MzIwMDY2NTgwMA==&mid=2247496921&idx=2&sn=21814aafcddff29e9559c51492f0b2d5&chksm=96fb0b7ea18c8268550c36ee750add523b15bdf443f57d6fd045e29ec6a63e11858a6dbad589&mpshare=1&scene=24&srcid=0929OR5EATf5H2gTLREzsDlD&sharer_sharetime=1632905192849&sharer_shareid=009d752390d3ca9d149b0d31038375f0#rd)，2021年9月 <br/>
+[《不产矿石何以做世界石都？》]()，2021年11月 <br/>
