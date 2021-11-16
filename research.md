@@ -2,11 +2,11 @@
 layout: default
 ---
 
-[HOME](./index.md) | [CV](./assets/FanghaoChen_AcademicCV_eng-210930.pdf) | [**RESEARCH**](./) | [TEACHING](./teaching.md) | [中文](./chinesepage.md) | [LINKS](./links.md)
+[HOME](./index.md) | [CV](./assets/CV_FanghaoChen_211116.pdf) | [**RESEARCH**](./) | [TEACHING](./teaching.md) | [中文](./chinesepage.md) | [LINKS](./links.md)
 
 ## Job Market Paper:
 
-**Familiar Strangers: Overseas Chinese, Lineage Connection and Foreign Investments in China** [[Paper](./assets/JMP_211104.pdf)] [[Slides](./assets/familiar_stranger_slides_210925.pdf)]<br/>
+**Familiar Strangers: Overseas Chinese, Lineage Connection and Foreign Investments in China** [[Paper](./assets/JMP_FanghaoChen_211116.pdf)] [[Slides](./assets/familiar_stranger_slides_211116.pdf)]<br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
 This paper studies the importance of international lineage network in facilitating the entry of foreign firms in developing countries where immature market environment deters foreign investments. We build a unique dataset on the universe of foreign firms in China that are controlled by Huaren (overseas Chinese) whose surnames are used to infer their lineage group. To identify the causal effects of lineage connection, we implement a Triple Difference-in-Difference (DID) design exploiting variations from both the staggered timings of opening shocks during the Reform Era (1981-1996) and differential surname distributions across prefectures, which allows us to control for unobserved factors at various levels. We find that, following the prefecture-level opening shocks, lineage connection facilitates the entry of Huaren foreign firms, through reducing information frictions and strengthening contract enforcement. Such effects are not likely to be driven by selective entry of more able Huaren entrepreneurs, and are robust to various robustness checks. We also find that the lineage-driven FDI during early development stages functions as industrial seeds and led to persistently more foreign investments in the long run.
@@ -38,8 +38,8 @@ This paper studies the importance of international lineage network in facilitati
 **Industrial Evolution in China** <br/>
 Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
-**From Kinship to Market: FDI and the Building of Market Institution in China** <br/>
+**From Kinship to Market: FDI and the Market Institution in China** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
-**Seeding the Growth: FDI and Local Entrepreneurship** <br/>
+**Inclusive FDI: Diaspora Firm and Local Entrepreneurship** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
