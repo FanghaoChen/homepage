@@ -3,7 +3,7 @@
 ### Teaching Assistant
 
 **Global Leadership (MBA) 2021 Fall** <br/>
-Instructor: Prof. Zhuang Yang <br/>
+Instructor: Prof. Zhuang Yang (National School of Development, PKU) <br/>
 Language: Chinese <br/>
 BiMBA Business School, Peking University
 
