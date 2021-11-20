@@ -2,6 +2,11 @@
 
 ### Teaching Assistant
 
+**Global Leadership (MBA) 2021 Fall** <br/>
+Instructor: Prof. Zhuang Yang <br/>
+Language: Chinese <br/>
+BiMBA Business School, Peking University
+
 **Topics on Chinese Economy (Undergraduate) 2020 Fall** <br/>
 Instructor: Dr. Gao Xu (Chief Economist at BOCI Securities) <br/>
 Language: Chinese <br/>
