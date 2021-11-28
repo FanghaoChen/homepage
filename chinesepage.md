@@ -19,4 +19,4 @@
 
 出海小镇系列：<br/>
 [《白沟镇何以成为世界包都？》](https://mp.weixin.qq.com/s?__biz=MzIwMDY2NTgwMA==&mid=2247496921&idx=2&sn=21814aafcddff29e9559c51492f0b2d5&chksm=96fb0b7ea18c8268550c36ee750add523b15bdf443f57d6fd045e29ec6a63e11858a6dbad589&mpshare=1&scene=24&srcid=0929OR5EATf5H2gTLREzsDlD&sharer_sharetime=1632905192849&sharer_shareid=009d752390d3ca9d149b0d31038375f0#rd)，2021年10月 <br/>
-[《不产矿石何以做世界石都？》]()，2021年11月 <br/>
+[《被中东土豪圈粉的世界石都》](https://mp.weixin.qq.com/s?__biz=MzkzMTAyOTU3Nw==&mid=2247489455&idx=1&sn=4c3c71002cf900a43247b081f6fd6526&chksm=c2706089f507e99fe98f530b2cc87c3a2461b6c9e90aa77e108e42b138561f3f56ee8a9fb38a&mpshare=1&scene=2&srcid=1127iTPFctEMJkf4I8FkZG5c&sharer_sharetime=1638023245653&sharer_shareid=009d752390d3ca9d149b0d31038375f0#rd)，2021年11月 <br/>
