@@ -23,9 +23,9 @@ This paper studies the importance of international lineage network in facilitati
 **陈方豪**<sup>*</sup>，樊仲琛 <br/>
 **Revise & Resubmit at 《经济学(季刊)》** 
 
-**突破城市发展的边界: 撤县设区的影响及其机制** [[Paper](./assets/annex_paper.pdf)] <br/>
+**突破城市发展的边界: 撤县设区与城市内部协同发展** [[Paper](./assets/annex_paper.pdf)] <br/>
 **陈方豪**<sup>*</sup>，叶菁菁 <br/>
-**Revision Requested by 《经济学(季刊)》** 
+**Revise & Resubmit at 《经济学(季刊)》** 
 
 **Annexation for Agglomeration: From a Neighbor to a Family Member** <br/>
 **Fanghao Chen**<sup>*</sup>, Shihe Fu, Jingjing Ye
@@ -38,8 +38,9 @@ This paper studies the importance of international lineage network in facilitati
 **Industrial Evolution in China** <br/>
 Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
-**From Kinship to Market: FDI and the Market Institution in China** <br/>
+**Inclusive FDI: Diaspora Direct Investments and Local Entrepreneurship** <br/>
+**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
+
+**From Kinship to Market: Diaspora Direct Investments and Market Institution in China** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
-**Inclusive FDI: Diaspora Firm and Local Entrepreneurship** <br/>
-**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
