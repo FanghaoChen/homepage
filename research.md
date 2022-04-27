@@ -19,7 +19,7 @@ This paper studies the importance of international lineage network in facilitati
 
 **禀赋结构一致的技术调整: 技术可转换性、人力资本与结构转型** [[Paper](./assets/techchange_draft_220427.pdf)] <br/>
 **陈方豪**<sup>*</sup>，樊仲琛 <br/>
-**Accepted by 《经济学(季刊)》** 
+**《经济学(季刊)》, Accepted** 
 
 ## Working Papers:
 
