@@ -22,12 +22,12 @@
 [《被中东土豪圈粉的世界石都》](https://mp.weixin.qq.com/s?__biz=MzkzMTAyOTU3Nw==&mid=2247489455&idx=1&sn=4c3c71002cf900a43247b081f6fd6526&chksm=c2706089f507e99fe98f530b2cc87c3a2461b6c9e90aa77e108e42b138561f3f56ee8a9fb38a&mpshare=1&scene=2&srcid=1127iTPFctEMJkf4I8FkZG5c&sharer_sharetime=1638023245653&sharer_shareid=009d752390d3ca9d149b0d31038375f0#rd)，2021年11月 <br/>
 
 文献精读系列：<br/>
-管理的经济学，敬请期待
-营销的经济学，敬请期待
-密度的经济学，敬请期待
-[电商的经济学](https://mp.weixin.qq.com/s?__biz=MzI4MzQwMDI4Ng==&mid=2247490116&idx=1&sn=5bc464b13ffed3a68285a155a562a764&chksm=eb8a1b75dcfd9263407f9ebb5248f3164fe17bc3b89e28ddcbaca353a1ae44202784d2efb1ea&mpshare=1&scene=24&srcid=0309Sk4zKtZu7hgVsugAi8xK&sharer_sharetime=1651066064755&sharer_shareid=eaef236f07a6645df468cecedd3d539d#rd)，2022年3月
-[物流的经济学](https://mp.weixin.qq.com/s?__biz=MzI4MzQwMDI4Ng==&mid=2247488087&idx=1&sn=c082264e613ebbbe0b75f9da24bff4fa&chksm=eb8a1366dcfd9a707ecccafc0a95cc300d377c12253eb374054d96217d63429f6ea4c514b147&mpshare=1&scene=24&srcid=0510gJLDEJgvrkQYOBS7RI98&sharer_sharetime=1621056499069&sharer_shareid=009d752390d3ca9d149b0d31038375f0#rd)，2021年5月
-[集群的经济学](https://zhuanlan.zhihu.com/p/108385509)，2020年8月
+管理的经济学，敬请期待 <br/>
+营销的经济学，敬请期待 <br/>
+密度的经济学，敬请期待 <br/>
+[电商的经济学](https://mp.weixin.qq.com/s?__biz=MzI4MzQwMDI4Ng==&mid=2247490116&idx=1&sn=5bc464b13ffed3a68285a155a562a764&chksm=eb8a1b75dcfd9263407f9ebb5248f3164fe17bc3b89e28ddcbaca353a1ae44202784d2efb1ea&mpshare=1&scene=24&srcid=0309Sk4zKtZu7hgVsugAi8xK&sharer_sharetime=1651066064755&sharer_shareid=eaef236f07a6645df468cecedd3d539d#rd)，2022年3月 <br/>
+[物流的经济学](https://mp.weixin.qq.com/s?__biz=MzI4MzQwMDI4Ng==&mid=2247488087&idx=1&sn=c082264e613ebbbe0b75f9da24bff4fa&chksm=eb8a1366dcfd9a707ecccafc0a95cc300d377c12253eb374054d96217d63429f6ea4c514b147&mpshare=1&scene=24&srcid=0510gJLDEJgvrkQYOBS7RI98&sharer_sharetime=1621056499069&sharer_shareid=009d752390d3ca9d149b0d31038375f0#rd)，2021年5月 <br/>
+[集群的经济学](https://zhuanlan.zhihu.com/p/108385509)，2020年8月 <br/>
 
 
 
