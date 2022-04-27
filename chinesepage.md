@@ -23,7 +23,7 @@
 
 文献精读系列：<br/>
 管理的经济学，敬请期待 <br/>
-营销的经济学，敬请期待 <br/>
+销售的经济学，敬请期待 <br/>
 密度的经济学，敬请期待 <br/>
 [电商的经济学](https://mp.weixin.qq.com/s?__biz=MzI4MzQwMDI4Ng==&mid=2247490116&idx=1&sn=5bc464b13ffed3a68285a155a562a764&chksm=eb8a1b75dcfd9263407f9ebb5248f3164fe17bc3b89e28ddcbaca353a1ae44202784d2efb1ea&mpshare=1&scene=24&srcid=0309Sk4zKtZu7hgVsugAi8xK&sharer_sharetime=1651066064755&sharer_shareid=eaef236f07a6645df468cecedd3d539d#rd)，2022年3月 <br/>
 [物流的经济学](https://mp.weixin.qq.com/s?__biz=MzI4MzQwMDI4Ng==&mid=2247488087&idx=1&sn=c082264e613ebbbe0b75f9da24bff4fa&chksm=eb8a1366dcfd9a707ecccafc0a95cc300d377c12253eb374054d96217d63429f6ea4c514b147&mpshare=1&scene=24&srcid=0510gJLDEJgvrkQYOBS7RI98&sharer_sharetime=1621056499069&sharer_shareid=009d752390d3ca9d149b0d31038375f0#rd)，2021年5月 <br/>
