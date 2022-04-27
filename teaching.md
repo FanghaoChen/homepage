@@ -1,4 +1,4 @@
-[HOME](./index.md) | [CV](./assets/CV_FanghaoChen_211116.pdf) | [RESEARCH](./research.md) | [**TEACHING**](./) | [中文](./chinesepage.md) | [LINKS](./links.md)
+[HOME](./index.md) | [CV](./assets/CV_FanghaoChen_220427.pdf) | [RESEARCH](./research.md) | [**TEACHING**](./) | [中文](./chinesepage.md) | [LINKS](./links.md)
 
 ### Teaching Assistant
 
