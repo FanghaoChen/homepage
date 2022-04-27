@@ -41,7 +41,7 @@ This paper studies the importance of international lineage network in facilitati
 **Industrial Evolution in China** <br/>
 Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
-**Inclusive FDI: Identifying Diaspora Direct Investment Spillovers ** <br/>
+**Inclusive FDI: Identifying Diaspora Direct Investment Spillovers** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
 **Endogenous Industrial Policy: Evidence from FDI Regulation in China** <br/>
