@@ -17,7 +17,6 @@ This paper studies the importance of international lineage network in facilitati
 叶菁菁，吴燕，**陈方豪**<sup>*</sup>，王宇晴 <br/>
 **《管理世界》** , 2017, 12, 20-32
 
-
 **禀赋结构一致的技术调整: 技术可转换性、人力资本与结构转型** [[Paper](./assets/techchange_paper.pdf)] <br/>
 **陈方豪**<sup>*</sup>，樊仲琛 <br/>
 **Accepted by 《经济学(季刊)》** 
@@ -27,6 +26,9 @@ This paper studies the importance of international lineage network in facilitati
 **突破城市发展的边界: 撤县设区与城市内部协同发展** [[Paper](./assets/annex_paper.pdf)] <br/>
 **陈方豪**<sup>*</sup>，叶菁菁 <br/>
 **Revise & Resubmit at 《经济学(季刊)》** 
+
+**以侨为侨：侨资企业与中国的外向型发展** <br/>
+**陈方豪**<sup>*</sup>，熊瑞驰，张晓波
 
 **Annexation for Agglomeration: From a Neighbor to a Family Member** <br/>
 **Fanghao Chen**<sup>*</sup>, Shihe Fu, Jingjing Ye
@@ -39,9 +41,12 @@ This paper studies the importance of international lineage network in facilitati
 **Industrial Evolution in China** <br/>
 Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
-**Inclusive FDI: Diaspora Direct Investments and Local Entrepreneurship** <br/>
+**Inclusive FDI: Diaspora Direct Investments and Domestic Entrepreneurship** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
 **From Kinship to Market: Diaspora Direct Investments and Market Institution in China** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
+
+**Endogenous Industrial Policy: Evidence from FDI Regulation in China** <br/>
+**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan
 
