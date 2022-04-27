@@ -6,10 +6,10 @@ layout: default
 
 ## Job Market Paper:
 
-**Familiar Strangers: Overseas Chinese, Lineage Connection and Foreign Investments in China** [[Paper](./assets/JMP_FanghaoChen_211120.pdf)] [[Slides](./assets/familiar_stranger_slides_211116.pdf)]<br/>
+**Familiar Strangers: Lineage Connection and Diaspora Direct Investments in China** [[Paper](./assets/familiar_stranger_draft_220303.pdf)] [[Slides](./assets/familiar_stranger_slides_22014.pdf)][[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)]<br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
-This paper studies the importance of international lineage network in facilitating the entry of foreign firms in developing countries where immature market environment deters foreign investments. We build a unique dataset on the universe of foreign firms in China that are controlled by Huaren (overseas Chinese) whose surnames are used to infer their lineage group. To identify the causal effects of lineage connection, we implement a Triple Difference-in-Difference (DID) design exploiting variations from both the staggered timings of opening shocks during the Reform Era (1981-1996) and differential surname distributions across prefectures, which allows us to control for unobserved factors at various levels. We find that, following the prefecture-level opening shocks, lineage connection facilitates the entry of Huaren foreign firms, through reducing information frictions and strengthening contract enforcement. Our findings are robust to various robustness checks and we find no such effects around China's accession to WTO. We also find that the lineage-driven FDI during early development stages functions as industrial seeds and led to persistently more foreign investments in the long run.
+This paper studies the importance of international lineage network in facilitating the entry of foreign firms in developing countries where immature market environment deters foreign investments. We build a unique dataset on the universe of diaspora foreign firms in China that are controlled by overseas Chinese whose surnames are used to infer their lineage group. To identify the causal effects of lineage connection, we implement a Triple Difference-in-Difference (DID) design exploiting variations from both the staggered timings of opening shocks during the Reform Era (1981-1996) and differential surname distributions across prefectures, which allows us to control for unobserved factors at various levels. We find that, following the prefecture­level opening shocks, lineage connection facilitates the entry of diaspora firms, through information sharing and contract enforcement. Our findings are robust to various robustness checks and we find no such effects following China’s accession to WTO as placebo shocks because market institutions had been much improved. We also find that the lineage-driven diaspora firm entrants during early development stages functioned as industrial seeds, as they generate large and long-term positive spillover effects on non-diaspora firm entry and investments.
 
 ## Publications:
   
@@ -17,11 +17,12 @@ This paper studies the importance of international lineage network in facilitati
 叶菁菁，吴燕，**陈方豪**<sup>*</sup>，王宇晴 <br/>
 **《管理世界》** , 2017, 12, 20-32
 
-## Working Papers:
 
 **禀赋结构一致的技术调整: 技术可转换性、人力资本与结构转型** [[Paper](./assets/techchange_paper.pdf)] <br/>
 **陈方豪**<sup>*</sup>，樊仲琛 <br/>
-**Revise & Resubmit at 《经济学(季刊)》** 
+**Accepted by 《经济学(季刊)》** 
+
+## Working Papers:
 
 **突破城市发展的边界: 撤县设区与城市内部协同发展** [[Paper](./assets/annex_paper.pdf)] <br/>
 **陈方豪**<sup>*</sup>，叶菁菁 <br/>
