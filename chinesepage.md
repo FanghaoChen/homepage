@@ -10,7 +10,7 @@
 
 ## 经济学科普
 
-在业余时间，我喜欢在社交媒体撰写经济学科普性文章，内容注重经济学前沿理论与方法论的通俗化介绍，以及对中国经济的量化分析。我目前为自媒体平台“远川出海研究”（入选2021年上海市“中华文化走出去”专项扶持资金的“全球叙事能力建设”板块）供稿，还是著名知识分享平台[知乎](https://www.zhihu.com/people/hongo-chin)经济学领域的优秀答主之一。
+在业余时间，我喜欢在社交媒体撰写经济学科普性文章。我目前为自媒体平台“远川出海研究”（入选2021年上海市“中华文化走出去”专项扶持资金的“全球叙事能力建设”板块）供稿，还是著名知识分享平台[知乎](https://www.zhihu.com/people/hongo-chin)经济学领域的优秀答主之一。
 
 ### 原创杂文系列：<br/>
 [《谁是Mr. Tan: 揭秘华人姓氏的英文拼写》](https://mp.weixin.qq.com/s?__biz=MzI4MzQwMDI4Ng==&mid=2247488665&idx=1&sn=463c83013d0ea95f7c9fa55d84196640&chksm=eb8a15a8dcfd9cbecf8e827b6d0a6230363816725f4412aed1707989b672e3a80e7aeb394328&mpshare=1&scene=24&srcid=0730Dc0tK2sZMsyexzLto33b&sharer_sharetime=1627663884197&sharer_shareid=009d752390d3ca9d149b0d31038375f0#rd)，2021年7月 <br/>
