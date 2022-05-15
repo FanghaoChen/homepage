@@ -6,7 +6,7 @@
 
 我的研究主线是开放经济下的产业变迁, 尤其关注中国的产业发展与中国不断深化参与的国际贸易与跨国投资之间的关系。当前的研究兴趣为改革开放后作为先驱投资者的海外侨商在中国大陆投资的历史演变、决定因素与长期影响。我关于侨资企业的研究计划可以点击[这里](./assets/bridger_draft_220515.pdf)查看。我的求职论文“Familiar Strangers: Lineage Connection and Diaspora Direct Investments in China”可以点击[这里](./assets/familiar_stranger_draft_220303.pdf)查看。
 
-更多关于我的信息，可以参见我的[中文简历](./assets/陈方豪_北大国发院_220509.pdf)，或[个人陈述](https://mp.weixin.qq.com/s?__biz=Mzg4MzE0ODY0Mw==&mid=2247491382&idx=1&sn=992dc4dda38bfd95d5c2b47848fc5a81&chksm=cf4a8d3af83d042c96f68c98b9406eab25df4ce418b6778fccdee755fc9e499decfb44498855&mpshare=1&scene=24&srcid=12203KNxFd0xsEh7nM7ZzhKn&sharer_sharetime=1639991731014&sharer_shareid=009d752390d3ca9d149b0d31038375f0#rd)。
+更多关于我的信息，可以参见我的[中文简历](./assets/陈方豪_北大国发院_220509.pdf)，或[心路历程](https://mp.weixin.qq.com/s?__biz=Mzg4MzE0ODY0Mw==&mid=2247491382&idx=1&sn=992dc4dda38bfd95d5c2b47848fc5a81&chksm=cf4a8d3af83d042c96f68c98b9406eab25df4ce418b6778fccdee755fc9e499decfb44498855&mpshare=1&scene=24&srcid=12203KNxFd0xsEh7nM7ZzhKn&sharer_sharetime=1639991731014&sharer_shareid=009d752390d3ca9d149b0d31038375f0#rd)。
 
 ## 经济学科普
 
