@@ -22,7 +22,7 @@ This paper studies the importance of international lineage network in facilitati
 **《经济学(季刊)》, Forthcoming** 
 
 **以侨为侨：侨资企业与中国的外向型发展** [[Paper](./assets/bridger_draft_220515.pdf)] <br/>
-**陈方豪**<sup>*</sup>，熊瑞驰，张晓波 <br/>
+**陈方豪**<sup>*</sup>，熊瑞驰 <br/>
 **《中国经济学》, Forthcoming** 
 
 ## Working Papers:
