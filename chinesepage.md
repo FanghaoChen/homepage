@@ -4,7 +4,7 @@
 
 北京大学国家发展研究院2017级博士研究生，多伦多大学访问学者，即将于2022年秋季学期入职[暨南大学经济学院](https://ec.jnu.edu.cn/)担任常任轨助理教授；主要研究领域为与企业有关的经济理论与实证分析，包括但不限于发展经济学、国际经济学、城市经济学、产业组织等；现有学术论文发表或待刊于《管理世界》、《经济学（季刊）》、《中国经济学》等权威期刊。
 
-我的研究主线是开放经济下的产业变迁, 尤其关注中国的产业发展与中国不断深化参与的国际贸易与跨国投资之间的关系。当前的研究兴趣为改革开放后作为先驱投资者的海外侨商在中国大陆投资的历史演变、决定因素与长期影响。我关于侨资企业的研究计划可以点击[这里](./assets/bridger_draft_220515.pdf)查看。我的求职论文“Familiar Strangers: Lineage Connection and Diaspora Direct Investments in China”可以点击[这里](./assets/familiar_stranger_draft_220303.pdf)查看。
+我的研究主线是开放经济下的产业变迁, 尤其关注中国的产业发展与中国不断深化参与的国际贸易与跨国投资之间的关系。当前的研究重心为改革开放后作为先驱投资者的海外侨商在中国大陆投资的历史演变、决定因素与长期影响。我关于侨资企业的研究计划可以点击[这里](./assets/bridger_draft_220515.pdf)查看。我的求职论文“Familiar Strangers: Lineage Connection and Diaspora Direct Investments in China”可以点击[这里](./assets/familiar_stranger_draft_220303.pdf)查看。
 
 更多关于我的信息，可以参见我的[中文简历](./assets/陈方豪_北大国发院_220509.pdf)，或[研究经历](https://mp.weixin.qq.com/s?__biz=Mzg4MzE0ODY0Mw==&mid=2247491382&idx=1&sn=992dc4dda38bfd95d5c2b47848fc5a81&chksm=cf4a8d3af83d042c96f68c98b9406eab25df4ce418b6778fccdee755fc9e499decfb44498855&mpshare=1&scene=24&srcid=12203KNxFd0xsEh7nM7ZzhKn&sharer_sharetime=1639991731014&sharer_shareid=009d752390d3ca9d149b0d31038375f0#rd)。
 
@@ -24,7 +24,7 @@
 ### 文献精读系列：<br/>
 管理的经济学，敬请期待 <br/>
 销售的经济学，敬请期待 <br/>
-空间的经济学，敬请期待 <br/>
+选址的经济学，敬请期待 <br/>
 [电商的经济学](https://mp.weixin.qq.com/s?__biz=MzI4MzQwMDI4Ng==&mid=2247490116&idx=1&sn=5bc464b13ffed3a68285a155a562a764&chksm=eb8a1b75dcfd9263407f9ebb5248f3164fe17bc3b89e28ddcbaca353a1ae44202784d2efb1ea&mpshare=1&scene=24&srcid=0309Sk4zKtZu7hgVsugAi8xK&sharer_sharetime=1651066064755&sharer_shareid=eaef236f07a6645df468cecedd3d539d#rd)，2022年3月 <br/>
 [物流的经济学](https://mp.weixin.qq.com/s?__biz=MzI4MzQwMDI4Ng==&mid=2247488087&idx=1&sn=c082264e613ebbbe0b75f9da24bff4fa&chksm=eb8a1366dcfd9a707ecccafc0a95cc300d377c12253eb374054d96217d63429f6ea4c514b147&mpshare=1&scene=24&srcid=0510gJLDEJgvrkQYOBS7RI98&sharer_sharetime=1621056499069&sharer_shareid=009d752390d3ca9d149b0d31038375f0#rd)，2021年5月 <br/>
 [集群的经济学](https://zhuanlan.zhihu.com/p/108385509)，2020年8月 <br/>
