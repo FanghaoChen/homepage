@@ -5,18 +5,18 @@ layout: default
 [HOME](./index.md) | [CV](./assets/CV_FanghaoChen_220509.pdf) | [**RESEARCH**](./) | [TEACHING](./teaching.md) | [中文](./chinesepage.md) | [LINKS](./links.md)
 
 ## Publications:
-  
-**个人所得税减免会增加劳动供给吗?——来自准自然实验的证据** [[Paper](http://www.cnki.com.cn/Article/CJFDTOTAL-GLSJ201712009.htm)] <br/>
-叶菁菁，吴燕，**陈方豪**<sup>*</sup>，王宇晴 <br/>
-**《管理世界》** , 2017, 12: 20-32
+ 
+**以侨为侨：侨资企业与中国的外向型发展** [[Paper](./assets/bridger_draft_220515.pdf)] <br/>
+**陈方豪**<sup>*</sup>，熊瑞驰 <br/>
+**《中国经济学》, Forthcoming** 
 
 **禀赋结构一致的技术调整: 技术可转换性、人力资本与结构转型** [[Paper](./assets/techchange_draft_220427.pdf)] <br/>
 **陈方豪**<sup>*</sup>，樊仲琛 <br/>
 **《经济学(季刊)》, Forthcoming** 
 
-**以侨为侨：侨资企业与中国的外向型发展** [[Paper](./assets/bridger_draft_220515.pdf)] <br/>
-**陈方豪**<sup>*</sup>，熊瑞驰 <br/>
-**《中国经济学》, Forthcoming** 
+**个人所得税减免会增加劳动供给吗?——来自准自然实验的证据** [[Paper](http://www.cnki.com.cn/Article/CJFDTOTAL-GLSJ201712009.htm)] <br/>
+叶菁菁，吴燕，**陈方豪**<sup>*</sup>，王宇晴 <br/>
+**《管理世界》** , 2017, 12: 20-32
 
 ## Working Papers:
 
