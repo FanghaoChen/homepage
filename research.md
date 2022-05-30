@@ -46,7 +46,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **地方政府的招商引资经济学**  <br/>
 尚双鹤，**陈方豪**<sup>*</sup>
 
-### 2. FDI Spillovers and Diaspora Entrepreneurship** ###
+### 2. FDI Spillovers and Diaspora Entrepreneurship ###
 
 **Inclusive FDI: Identifying Spillovers from Diaspora Investments** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
