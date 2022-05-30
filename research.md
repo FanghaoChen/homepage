@@ -59,6 +59,6 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Economies or Diseconomies of Scale in Product Innovations** <br/>
 Yi Lai, **Fanghao Chen**<sup>*</sup>
 
-**Products and Tasks: Rethinking the Boundaries of Firms** <br/>
+**Product and Task: Rethinking the Boundaries of Firms** <br/>
 **Fanghao Chen**<sup>*</sup>
 
