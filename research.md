@@ -35,9 +35,9 @@ layout: default
 
 ## Research in Progress:
 
-### 1. Place-Based Policy and Industrial Evolution ###
+### 1. Industrial Policy and Industrial Evolution ###
 
-**Industrial Evolution in China** <br/>
+**Industrial Development in China** <br/>
 Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
 **Endogenous Industrial Policies: Evidence from FDI Regulations in China** <br/>
