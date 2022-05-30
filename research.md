@@ -4,7 +4,7 @@ layout: default
 
 [HOME](./index.md) | [CV](./assets/CV_FanghaoChen_220509.pdf) | [**RESEARCH**](./) | [TEACHING](./teaching.md) | [中文](./chinesepage.md) | [LINKS](./links.md)
 
-## Publications:
+### Publications:
  
 **以侨为侨：侨资企业与中国的外向型发展** [[Paper](./assets/bridger_draft_220515.pdf)] <br/>
 **陈方豪**<sup>*</sup>，熊瑞驰 <br/>
@@ -18,7 +18,7 @@ layout: default
 叶菁菁，吴燕，**陈方豪**<sup>*</sup>，王宇晴 <br/>
 **《管理世界》** , 2017, 12: 20-32
 
-## Working Papers:
+### Working Papers:
 
 **Familiar Strangers: Lineage Connection and Diaspora Direct Investments in China** [[Paper](./assets/familiar_stranger_draft_220303.pdf)] [[Slides](./assets/familiar_stranger_slides_220416.pdf)][[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)]<br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
@@ -33,7 +33,7 @@ layout: default
 **Military Entrepreneurship** <br/>
 **Fanghao Chen**<sup>*</sup>, Xiaobo Zhang, Lixin Colin Xu
 
-## Research in Progress:
+### Research in Progress:
 
 # 1. Place-Based Policy and Industrial Evolution
 
