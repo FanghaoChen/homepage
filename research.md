@@ -47,3 +47,5 @@ Yi Lai, **Fanghao Chen**<sup>*</sup>
 **Endogenous Industrial Policies: Evidence from FDI Regulations in China** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi Xu
 
+**地方政府的招商引资的经济学**  <br/>
+尚双鹤, **陈方豪**<sup>*</sup>
