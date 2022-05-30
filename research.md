@@ -35,7 +35,7 @@ layout: default
 
 ## Research in Progress:
 
-1. Place-Based Policy and Industrial Evolution
+**1. Place-Based Policy and Industrial Evolution** <br/>
 
 **Industrial Evolution in China** <br/>
 Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
@@ -46,7 +46,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **地方政府的招商引资经济学**  <br/>
 尚双鹤，**陈方豪**<sup>*</sup>
 
-2. FDI Spillovers and Diaspora Entrepreneurship
+**2. FDI Spillovers and Diaspora Entrepreneurship** <br/>
 
 **Inclusive FDI: Identifying Spillovers from Diaspora Investments** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
@@ -54,7 +54,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Diaspora Inventors and Technology Adoption in Developing Countries** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
-3. Theory of Firm
+**3. Theories and Empirics of Firm** <br/>
 
 **Economies or Diseconomies of Scale in Product Innovations** <br/>
 Yi Lai, **Fanghao Chen**<sup>*</sup>
