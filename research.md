@@ -48,4 +48,4 @@ Yi Lai, **Fanghao Chen**<sup>*</sup>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi Xu
 
 **地方政府的招商引资的经济学**  <br/>
-尚双鹤, **陈方豪**<sup>*</sup>
+尚双鹤，**陈方豪**<sup>*</sup>
