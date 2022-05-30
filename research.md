@@ -46,7 +46,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **地方政府的招商引资经济学**  <br/>
 尚双鹤，**陈方豪**<sup>*</sup>
 
-**2. FDI Spillovers and Diaspora Entrepreneurship** <br/>
+### 2. FDI Spillovers and Diaspora Entrepreneurship** ###
 
 **Inclusive FDI: Identifying Spillovers from Diaspora Investments** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
@@ -54,7 +54,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Diaspora Inventors and Technology Adoption in Developing Countries** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
-**3. Theories and Empirics of Firms** <br/>
+### 3. Theories and Empirics of Firms ###
 
 **Economies or Diseconomies of Scale in Product Innovations** <br/>
 Yi Lai, **Fanghao Chen**<sup>*</sup>
