@@ -41,7 +41,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Inclusive FDI: Identifying Spillovers from Diaspora Investments** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
-**Government Procurement, Competitive Bidding, and Firm Innovation** <br/>
+**Are There Economies or Diseconomies of Scale in Product Innovations?** <br/>
 Yi Lai, **Fanghao Chen**<sup>*</sup>
 
 **Endogenous Industrial Policy: Evidence from FDI Regulations in China** <br/>
