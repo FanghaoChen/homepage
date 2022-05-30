@@ -35,8 +35,18 @@ layout: default
 
 ## Research in Progress:
 
+# 1. Place-Based Policy and Industrial Evolution
+
 **Industrial Evolution in China** <br/>
 Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
+
+**Endogenous Industrial Policies: Evidence from FDI Regulations in China** <br/>
+**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi Xu
+
+**地方政府的招商引资经济学**  <br/>
+尚双鹤，**陈方豪**<sup>*</sup>
+
+# 2. FDI Spillovers and Diaspora Entrepreneurship
 
 **Inclusive FDI: Identifying Spillovers from Diaspora Investments** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
@@ -44,11 +54,11 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Diaspora Inventors and Technology Adoption in Developing Countries** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
+# 3. Theory of Firm
+
 **Economies or Diseconomies of Scale in Product Innovations** <br/>
 Yi Lai, **Fanghao Chen**<sup>*</sup>
 
-**Endogenous Industrial Policies: Evidence from FDI Regulations in China** <br/>
-**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi Xu
+**Products and Tasks: Rethinking the Boundaries of Firms** <br/>
+**Fanghao Chen**<sup>*</sup>
 
-**地方政府的招商引资经济学**  <br/>
-尚双鹤，**陈方豪**<sup>*</sup>
