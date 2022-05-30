@@ -35,7 +35,7 @@ layout: default
 
 ## Research in Progress:
 
-**1. Place-Based Policy and Industrial Evolution** <br/>
+### 1. Place-Based Policy and Industrial Evolution ###
 
 **Industrial Evolution in China** <br/>
 Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
@@ -54,7 +54,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Diaspora Inventors and Technology Adoption in Developing Countries** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
-**3. Theories and Empirics of Firm** <br/>
+**3. Theories and Empirics of Firms** <br/>
 
 **Economies or Diseconomies of Scale in Product Innovations** <br/>
 Yi Lai, **Fanghao Chen**<sup>*</sup>
