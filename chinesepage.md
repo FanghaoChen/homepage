@@ -10,7 +10,7 @@
 
 ## 经济学科普
 
-在业余时间，我喜欢在社交媒体撰写经济学科普性文章。我目前为自媒体平台“远川出海研究”（入选2021年上海市“中华文化走出去”专项扶持资金的“全球叙事能力建设”板块）供稿，还是著名知识分享平台[知乎](https://www.zhihu.com/people/hongo-chin)经济学领域的优秀答主之一。
+在业余时间，我喜欢在社交媒体撰写经济学科普性文章。我目前为[远川研究所](https://stream-capital.com/)的远川出海研究板块供稿，还是著名知识分享平台[知乎](https://www.zhihu.com/people/hongo-chin)经济学领域的优秀答主之一。
 
 ### 远川出海系列：<br/>
 [《被中东土豪圈粉的世界石都》](https://mp.weixin.qq.com/s?__biz=MzkzMTAyOTU3Nw==&mid=2247489455&idx=1&sn=4c3c71002cf900a43247b081f6fd6526&chksm=c2706089f507e99fe98f530b2cc87c3a2461b6c9e90aa77e108e42b138561f3f56ee8a9fb38a&mpshare=1&scene=2&srcid=1127iTPFctEMJkf4I8FkZG5c&sharer_sharetime=1638023245653&sharer_shareid=009d752390d3ca9d149b0d31038375f0#rd)，2021年11月 <br/>
