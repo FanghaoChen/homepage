@@ -50,6 +50,9 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **地方政府招商引资的经济学逻辑**  <br/>
 尚双鹤，**陈方豪**<sup>*</sup>
 
+**Building the Firm-Specific Competitor Network**
+**Fanghao Chen**， Shengkai Zhou
+
 ### 2. (Chinese) Diaspora Entrepreneurship ###
 
 **Inclusive FDI: Identifying Spillovers from Diaspora Investments** <br/>
