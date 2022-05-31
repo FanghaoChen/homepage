@@ -44,7 +44,7 @@ layout: default
 **Industrial Development in China** <br/>
 Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
-**Endogenous Industrial Policies: Evidence from FDI Regulations in China** <br/>
+**Understanding China's Industrial Policy through the Lens of FDI Regulations** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi Xu
 
 **地方政府招商引资的经济学逻辑**  <br/>
