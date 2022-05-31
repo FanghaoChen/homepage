@@ -58,7 +58,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Inclusive FDI: Identifying Spillovers from Diaspora Investments** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
-**Diaspora Inventors and Technology Adoption in Developing Countries** <br/>
+**Diaspora Inventors and Technology Adoption in the Home Country** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
 ### 3. Theories and Empirics of Firms ###
