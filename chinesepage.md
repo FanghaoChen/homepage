@@ -24,7 +24,7 @@
 销售的经济学，敬请期待 <br/>
 选址的经济学，敬请期待 <br/>
 
-### 原创杂文系列：<br/>
+### 学术杂文系列：<br/>
 [《谁是Mr. Tan: 揭秘华人姓氏的英文拼写》](https://mp.weixin.qq.com/s?__biz=MzI4MzQwMDI4Ng==&mid=2247488665&idx=1&sn=463c83013d0ea95f7c9fa55d84196640&chksm=eb8a15a8dcfd9cbecf8e827b6d0a6230363816725f4412aed1707989b672e3a80e7aeb394328&mpshare=1&scene=24&srcid=0730Dc0tK2sZMsyexzLto33b&sharer_sharetime=1627663884197&sharer_shareid=009d752390d3ca9d149b0d31038375f0#rd)，2021年7月 <br/>
 [《关于经济学方法论的探讨——对六组“二律背反” 命题的解答》](https://zhuanlan.zhihu.com/p/339919057)，2020年12月 <br/>
 [《方向初探：发展经济学》](https://mp.weixin.qq.com/s?__biz=Mzg4MzE0ODY0Mw==&mid=2247486276&idx=1&sn=11980239e1724f4577acb1fc8976f01c&chksm=cf4a9948f83d105e75eb1bc96ed0064009579908401a25770dfc3eee382d0bb90a382529e772&mpshare=1&scene=24&srcid=&sharer_sharetime=1587118796703&sharer_shareid=009d752390d3ca9d149b0d31038375f0#rd)，2020年3月 <br/>
