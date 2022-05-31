@@ -5,7 +5,9 @@ layout: default
 [HOME](./index.md) | [CV](./assets/CV_FanghaoChen_220509.pdf) | [**RESEARCH**](./) | [TEACHING](./teaching.md) | [中文](./chinesepage.md) | [LINKS](./links.md)
 
 ## Publications:
- 
+
+### 2022 ###
+
 **以侨为侨：侨资企业与中国的外向型发展** [[Paper](./assets/bridger_draft_220515.pdf)] <br/>
 **陈方豪**<sup>*</sup>，熊瑞驰 <br/>
 **《中国经济学》, Forthcoming** 
@@ -13,6 +15,8 @@ layout: default
 **禀赋结构一致的技术调整: 技术可转换性、人力资本与结构转型** [[Paper](./assets/techchange_draft_220427.pdf)] <br/>
 **陈方豪**<sup>*</sup>，樊仲琛 <br/>
 **《经济学(季刊)》, Forthcoming** 
+
+### 2021 ###
 
 **[个人所得税减免会增加劳动供给吗?——来自准自然实验的证据](http://www.cnki.com.cn/Article/CJFDTOTAL-GLSJ201712009.htm)** <br/>
 叶菁菁，吴燕，**陈方豪**<sup>*</sup>，王宇晴 <br/>
@@ -43,7 +47,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Endogenous Industrial Policies: Evidence from FDI Regulations in China** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi Xu
 
-**地方政府的招商引资经济学**  <br/>
+**地方政府招商引资的经济学逻辑**  <br/>
 尚双鹤，**陈方豪**<sup>*</sup>
 
 ### 2. (Chinese) Diaspora Entrepreneurship ###
