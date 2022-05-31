@@ -14,7 +14,7 @@ layout: default
 **陈方豪**<sup>*</sup>，樊仲琛 <br/>
 **《经济学(季刊)》, Forthcoming** 
 
-**个人所得税减免会增加劳动供给吗?——来自准自然实验的证据** [[Paper](http://www.cnki.com.cn/Article/CJFDTOTAL-GLSJ201712009.htm)] <br/>
+**[个人所得税减免会增加劳动供给吗?——来自准自然实验的证据](http://www.cnki.com.cn/Article/CJFDTOTAL-GLSJ201712009.htm)** [[Paper](http://www.cnki.com.cn/Article/CJFDTOTAL-GLSJ201712009.htm)] <br/>
 叶菁菁，吴燕，**陈方豪**<sup>*</sup>，王宇晴 <br/>
 **《管理世界》** , 2017, 12: 20-32
 
