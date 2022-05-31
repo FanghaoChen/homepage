@@ -8,11 +8,9 @@
 
 更多关于我的信息，可以参见我的[中文简历](./assets/陈方豪_北大国发院_220509.pdf)，或[我选择研究作为职业的经历](https://mp.weixin.qq.com/s?__biz=Mzg4MzE0ODY0Mw==&mid=2247491382&idx=1&sn=992dc4dda38bfd95d5c2b47848fc5a81&chksm=cf4a8d3af83d042c96f68c98b9406eab25df4ce418b6778fccdee755fc9e499decfb44498855&mpshare=1&scene=24&srcid=12203KNxFd0xsEh7nM7ZzhKn&sharer_sharetime=1639991731014&sharer_shareid=009d752390d3ca9d149b0d31038375f0#rd)。
 
-## 经济学科普
+## 媒体影响力
 
-在业余时间，我喜欢在社交媒体撰写经济学科普性文章。<br/>
-
-我目前为北京大学企业大数据研究中心、[远川研究所](https://stream-capital.com/)的远川出海研究板块供稿，还是著名知识分享平台[知乎](https://www.zhihu.com/people/hongo-chin)经济学领域的优秀答主之一。
+我目前为[北京大学企业大数据研究中心](https://www.cer.pku.edu.cn/)、[远川研究所](https://stream-capital.com/)的远川出海研究板块供稿，还是著名知识分享平台[知乎](https://www.zhihu.com/people/hongo-chin)经济学领域的优秀答主之一。
 
 ### 远川出海系列：<br/>
 [《被中东土豪圈粉的世界石都》](https://mp.weixin.qq.com/s?__biz=MzkzMTAyOTU3Nw==&mid=2247489455&idx=1&sn=4c3c71002cf900a43247b081f6fd6526&chksm=c2706089f507e99fe98f530b2cc87c3a2461b6c9e90aa77e108e42b138561f3f56ee8a9fb38a&mpshare=1&scene=2&srcid=1127iTPFctEMJkf4I8FkZG5c&sharer_sharetime=1638023245653&sharer_shareid=009d752390d3ca9d149b0d31038375f0#rd)，2021年11月 <br/>
