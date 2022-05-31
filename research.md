@@ -51,7 +51,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 尚双鹤，**陈方豪**<sup>*</sup>
 
 **Building the Firm-Specific Competitor Network** <br/>
-**Fanghao Chen**， Shengkai Zhou
+**Fanghao Chen**<sup>*</sup>， Shengkai Zhou
 
 ### 2. (Chinese) Diaspora Entrepreneurship ###
 
