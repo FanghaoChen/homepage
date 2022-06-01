@@ -47,10 +47,10 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Understanding China's Industrial Policy through the Lens of FDI Regulations** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi Xu
 
-**地方政府招商引资的经济学逻辑**  <br/>
+**地方政府的招商引资行为：事实、逻辑与绩效**  <br/>
 尚双鹤，**陈方豪**<sup>*</sup>
 
-### 2. (Chinese) Diaspora Entrepreneurship ###
+### 2. FDI Spillovers and Diaspora Entrepreneurship ###
 
 **Inclusive FDI: Identifying Spillovers from Diaspora Investments** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
