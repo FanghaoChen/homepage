@@ -5,7 +5,7 @@ layout: default
 
 [**HOME**](./) | [CV](./assets/CV_FanghaoChen_220509.pdf) | [RESEARCH](./research.md) | [TEACHING](./teaching.md) | [中文](./chinesepage.md) | [LINKS](./links.md)
 
-Welcome! I'm a Ph.D. candidate in the National School of Development at Peking University. _**I will be joining the [School of Economics at Jinan University](https://ec.jnu.edu.cn/) as a tenure-track assistant professor in the fall of 2022.**_ 
+Welcome! I'm an assistant professor of economics in the [School of Economics at Jinan University](https://ec.jnu.edu.cn/). I obtained my PhD in economics from the National School of Development at Peking University.
 
 My research fields are industrial economics, urban economics and business economics. The common thread of my research is in understanding industrial development in the open economy, with a regional focus on China. My current focuses are how Chinese diasporas pinoneered in a premature market, provided the pioneering FDI into mainland China, and facilitated the transition of China toward an open, market-oriented and properous economy. You can find my job market paper, _Familiar Strangers: Lineage Connection and Diaspora Direct Investments in China_, [here](./assets/familiar_stranger_draft_220303.pdf). 
 
