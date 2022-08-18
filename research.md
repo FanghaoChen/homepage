@@ -10,7 +10,7 @@ layout: default
 
 **以侨为侨：侨资企业与中国的外向型发展** [[Paper](./assets/bridger_draft_220515.pdf)] <br/>
 **陈方豪**<sup>*</sup>，熊瑞驰 <br/>
-**《中国经济学》, Forthcoming** 
+**《中国经济学》, 2022, 1 (创刊号) ** 
 
 **禀赋结构一致的技术调整: 技术可转换性、人力资本与结构转型** [[Paper](./assets/techchange_draft_220427.pdf)] <br/>
 **陈方豪**<sup>*</sup>，樊仲琛 <br/>
@@ -44,7 +44,7 @@ layout: default
 **Industrial Development in China** <br/>
 Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
-**Understanding China's Industrial Policy through the Lens of FDI Regulations** <br/>
+**Understanding China's Industrial Policy: What We Learn from China's FDI Regulations** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi Xu
 
 **地方政府的招商引资行为：事实、逻辑与绩效**  <br/>
@@ -58,13 +58,10 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Diaspora Inventors and Technology Adoption in the Home Country** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
-### 3. Theories and Empirics of Firms ###
+### 3. General Theory and Empirics of Firms ###
 
 **Economies or Diseconomies of Scale in Product Innovations** <br/>
 Yi Lai, **Fanghao Chen**<sup>*</sup>
-
-**Product-Task-Differentiation: A New Perspective on Firm Boundaries** <br/>
-**Fanghao Chen**<sup>*</sup>
 
 **Building the Firm-Specific Competitor Network** <br/>
 **Fanghao Chen**<sup>*</sup>， Shengkai Zhou
