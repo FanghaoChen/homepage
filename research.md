@@ -10,11 +10,11 @@ layout: default
 
 **[以侨为侨：侨资企业与中国的外向型发展](https://www.jcejournal.com.cn/CN/Y2022/V1/I1/4)** <br/>
 **陈方豪**<sup>*</sup>，熊瑞驰 <br/>
-**《中国经济学》(创刊号), 2022, 1: 118-158** 
+**《中国经济学》(创刊号)** , 2022, 1: 118-158
 
 **禀赋结构一致的技术调整: 技术可转换性、人力资本与结构转型** [[Paper](./assets/techchange_draft_220427.pdf)] <br/>
 **陈方豪**<sup>*</sup>，樊仲琛 <br/>
-**《经济学(季刊)》, Forthcoming** 
+**《经济学(季刊)》** , Forthcoming
 
 ### 2017 ###
 
@@ -29,7 +29,7 @@ layout: default
 
 **突破城市发展的边界: 撤县设区与城市内部协同发展** [[Paper](./assets/annex_draft_220427.pdf)] <br/>
 **陈方豪**<sup>*</sup>，叶菁菁 <br/>
-**Revise & Resubmit at 《经济学(季刊)》** 
+Revise & Resubmit at **《经济学(季刊)》** 
 
 **Annexation for Agglomeration: From a Neighbor to a Family Member** <br/>
 **Fanghao Chen**<sup>*</sup>, Shihe Fu, Jingjing Ye
@@ -44,7 +44,7 @@ layout: default
 **Industrial Development in China** <br/>
 Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
-**Understanding China's Industrial Policy: What We Learn from China's FDI Regulations** <br/>
+**Endogenous Industrial Policy: Evidence from FDI Regulations in China** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi Xu
 
 **地方政府的招商引资行为：事实、逻辑与绩效**  <br/>
