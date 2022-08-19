@@ -8,7 +8,7 @@ layout: default
 
 ### 2022 ###
 
-**以侨为侨：侨资企业与中国的外向型发展** [[Paper](./assets/bridger_draft_220515.pdf)] <br/>
+**[以侨为侨：侨资企业与中国的外向型发展](https://www.jcejournal.com.cn/CN/Y2022/V1/I1/4)** <br/>
 **陈方豪**<sup>*</sup>，熊瑞驰 <br/>
 **《中国经济学》, 2022, 1 (创刊号)** 
 
