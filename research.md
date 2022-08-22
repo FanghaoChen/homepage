@@ -8,6 +8,10 @@ layout: default
 
 ### 2022 ###
 
+**突破城市发展的边界: 撤县设区与城市内部协同发展** [[Paper](./assets/annex_draft_220427.pdf)] <br/>
+**陈方豪**<sup>*</sup>，叶菁菁 <br/>
+**《经济学(季刊)》** , Forthcoming
+
 **[以侨为侨：侨资企业与中国的外向型发展](https://www.jcejournal.com.cn/CN/Y2022/V1/I1/4)** <br/>
 **陈方豪**<sup>*</sup>，熊瑞驰 <br/>
 **《中国经济学》(创刊号)** , 2022, 1: 118-158
@@ -26,10 +30,6 @@ layout: default
 
 **Familiar Strangers: Lineage Connection and Diaspora Direct Investments in China** [[Paper](./assets/familiar_stranger_draft_220303.pdf)] [[Slides](./assets/familiar_stranger_slides_220416.pdf)][[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)]<br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
-
-**突破城市发展的边界: 撤县设区与城市内部协同发展** [[Paper](./assets/annex_draft_220427.pdf)] <br/>
-**陈方豪**<sup>*</sup>，叶菁菁 <br/>
-Revise & Resubmit at **《经济学(季刊)》** 
 
 **Annexation for Agglomeration: From a Neighbor to a Family Member** <br/>
 **Fanghao Chen**<sup>*</sup>, Shihe Fu, Jingjing Ye
