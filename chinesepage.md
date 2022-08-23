@@ -1,4 +1,4 @@
-[HOME](./index.md) | [CV](./assets/CV_FanghaoChen_220509.pdf) | [RESEARCH](./research.md) | [TEACHING](./) | [**中文**](./) | [LINKS](./links.md)
+[HOME](./index.md) | [CV](./assets/CV_FanghaoChen_220509.pdf) | [RESEARCH](./research.md) | [TEACHING](./) | [**中文**](./chinese.md) | [LINKS](./links.md)
 
 # 陈方豪
 
