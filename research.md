@@ -60,7 +60,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
 ### 3. General Theory and Empirics of Firms ###
 
-**Economies or Diseconomies of Scale in Product Innovations** <br/>
+**Diseconomies of Scale in Product Innovations: Evidence from Chinese pharmaceutical industry** <br/>
 Yi Lai, **Fanghao Chen**<sup>*</sup>
 
 **Building the Firm-Specific Competitor Network** <br/>
