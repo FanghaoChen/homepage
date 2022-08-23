@@ -52,15 +52,18 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
 ### 2. FDI Spillovers and Diaspora Entrepreneurship ###
 
-**Inclusive FDI: Identifying Spillovers from Diaspora Investments** <br/>
+**Identifying Spillovers from Diaspora Investments** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
 **Diaspora Inventors and Technology Adoption in the Home Country** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
+**Lineage Connection, Delegation, and Firm Performance**<br/>
+**Fanghao Chen**<sup>*</sup>, Ruichi Xiong
+
 ### 3. General Theory and Empirics of Firms ###
 
-**Diseconomies of Scale in Product Innovations: Evidence from Chinese pharmaceutical industry** <br/>
+**Diseconomies of Scale in Product Innovations: Evidence from Chinese Pharmaceutical Industry** <br/>
 Yi Lai, **Fanghao Chen**<sup>*</sup>
 
 **Building the Firm-Specific Competitor Network** <br/>
