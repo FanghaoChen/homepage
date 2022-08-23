@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[**HOME**](./) | [CV](./assets/CV_FanghaoChen_220509.pdf) | [RESEARCH](./research.md) | [TEACHING](./teaching.md) | [中文](./chinesepage.md) | [LINKS](./links.md)
+[**HOME**](./index.md) | [CV](./assets/CV_FanghaoChen_220509.pdf) | [RESEARCH](./research.md) | [TEACHING](./teaching.md) | [中文](./chinesepage.md) | [LINKS](./links.md)
 
 Welcome! I'm an Assistant Professor of Economics in the [School of Economics at Jinan University](https://ec.jnu.edu.cn/). I obtained my PhD in economics from the [National School of Development at Peking University](https://www.nsd.pku.edu.cn/).
 
