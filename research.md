@@ -52,7 +52,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
 ### 2. FDI Spillovers and Diaspora Entrepreneurship ###
 
-**Identifying Spillovers from Diaspora Investments** <br/>
+**Diaspora Investments and Local Development** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
 **Diaspora Inventors and Technology Adoption in the Home Country** <br/>
