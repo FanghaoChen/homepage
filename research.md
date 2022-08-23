@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[HOME](./index.md) | [CV](./assets/CV_FanghaoChen_220509.pdf) | [**RESEARCH**](./) | [TEACHING](./teaching.md) | [中文](./chinesepage.md) | [LINKS](./links.md)
+[HOME](./index.md) | [CV](./assets/CV_FanghaoChen_220509.pdf) | [**RESEARCH**](./research.md) | [TEACHING](./teaching.md) | [中文](./chinesepage.md) | [LINKS](./links.md)
 
 ## Publications:
 
