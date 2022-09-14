@@ -4,7 +4,7 @@
 
 **学术规范与论文写作 (博士生) 2022秋** <br/>
 1. 数据与代码规范   [[Slides](./assets/Lec1_CodeData_220911.pdf)] <br/>
-2. 作图的原则与技巧 [[Slides](./assets/Lec1_Figure_220911.pdf)] <br/>
+2. 作图的原则与技巧 [[Slides](./assets/Lec2_Figure_220911.pdf)] <br/>
 3. 写作的心法与技法 [Slides]<br/>
 4. 以学术为业       [Slides] <br/>
 
