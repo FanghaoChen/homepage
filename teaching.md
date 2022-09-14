@@ -1,10 +1,10 @@
 [HOME](./index.md) | [CV](./assets/CV_FanghaoChen_220509.pdf) | [RESEARCH](./research.md) | [**TEACHING**](./teaching.md) | [中文](./chinesepage.md) | [LINKS](./links.md)
 
 **学术规范与论文写作 (博士生) 2022秋** <br/>
-第1课 [数据与代码规范](./assets/第1课_数据与代码管理_220911.pptx) <br/>
-第2课 [作图的原则与技巧](./assets/第2课_作图的原则与技巧_220911.pptx) <br/>
-第3课 写作的心法与技法 <br/>
-第4课 以学术为业 <br/>
+第1课 数据与代码规范   [Slides](./assets/Lec1_CodeData_220911.pdf) <br/>
+第2课 作图的原则与技巧 [Slides](./assets/Lec1_Figure_220911.pdf) <br/>
+第3课 写作的心法与技法 [Slides]<br/>
+第4课 以学术为业       [Slides] <br/>
 
 **城市经济理论与珠三角合作研究 (博士生) 2022秋** <br/>
 第1课 跨国公司、FDI与全球价值链 <br/>
