@@ -1,29 +1,11 @@
-[HOME](./index.md) | [CV](./assets/CV_FanghaoChen_220509.pdf) | [RESEARCH](./research.md) | [**TEACHING**](./) | [中文](./chinesepage.md) | [LINKS](./links.md)
+[HOME](./index.md) | [CV](./assets/CV_FanghaoChen_220509.pdf) | [RESEARCH](./research.md) | [**TEACHING**](./teaching.md) | [中文](./chinesepage.md) | [LINKS](./links.md)
 
-### Teaching Assistant
+**学术规范与论文写作 (博士生) 2022秋** <br/>
+第1课 数据与代码规范 <br/>
+第2课 作图的原则与技巧 <br/>
+第3课 写作的心法与技法 <br/>
+第4课 以学术为业 <br/>
 
-**Global Leadership (MBA) 2021 Fall** <br/>
-Instructor: Prof. Zhuang Yang (National School of Development, PKU) <br/>
-Language: Chinese <br/>
-BiMBA Business School, Peking University
-
-**Topics on Chinese Economy (Undergraduate) 2020 Fall** <br/>
-Instructor: Dr. Gao Xu (Chief Economist at BOCI Securities) <br/>
-Language: Chinese <br/>
-National School of Development, Peking University
-
-**Managerial Economics (MBA) 2019 Spring** <br/>
-Instructor: Prof. Xiaoyan Lei (National School of Development, PKU) <br/>
-Language: English <br/>
-BiMBA Business School, Peking University
-
-**Macroeconomics (Ph.D) 2019 Spring** <br/>
-Instructor: Prof. Han Han (School of Economics, PKU) <br/>
-Language: English <br/>
-Institute of South-South Cooperation and Development, Peking University
-
-**Public Policy: Microeconomics (Master) 2019 Spring** <br/>
-Instructor: Prof. Xiaoyan Lei (National School of Development, PKU) <br/>
-Language: English <br/>
-Institute of South-South Cooperation and Development, Peking University
-
+**城市经济理论与珠三角合作研究 (博士生) 2022秋** <br/>
+第1课 跨国公司、FDI与全球价值链 <br/>
+第2课 侨商直接投资与珠三角经济圈发展 <br/>
