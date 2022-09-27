@@ -1,4 +1,4 @@
-[HOME](./index.md) | [CV](./assets/CV_FanghaoChen_220914.pdf) | [RESEARCH](./research.md) | [**TEACHING**](./teaching.md) | [中文](./chinesepage.md) | [LINKS](./links.md)
+[HOME](./index.md) | [CV](./assets/CV_FanghaoChen_220927.pdf) | [RESEARCH](./research.md) | [**TEACHING**](./teaching.md) | [中文](./chinesepage.md) | [LINKS](./links.md)
 
 # 2022年秋季学期
 
