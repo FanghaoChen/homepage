@@ -47,8 +47,10 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Endogenous Industrial Policy: Evidence from FDI Regulations in China** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi Xu
 
-**地方政府的招商引资行为：事实、逻辑与绩效**  <br/>
-尚双鹤，**陈方豪**<sup>*</sup>
+**地方政府的区域产业政策与招商引资行为：事实、逻辑与绩效**  <br/>
+
+**测度中国制造业在微笑曲线上的位置** <br/>
+樊仲琛, **陈方豪**<sup>*</sup>
 
 ### 2. FDI Spillovers and Diaspora Entrepreneurship ###
 
