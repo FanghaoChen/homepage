@@ -60,7 +60,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Lineage Connection, Delegation, and Firm Performance**<br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
-### 3. General Theory and Empirics on Firms ###
+### 3. Theory and Empirics on Firms ###
 
 **Diseconomies of Scale in Product Innovations: Evidence from Chinese Pharmaceutical Industry** <br/>
 Yi Lai, **Fanghao Chen**<sup>*</sup>
