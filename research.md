@@ -28,7 +28,7 @@ layout: default
 
 ## Working Papers:
 
-**Familiar Strangers: Lineage Connection and Diaspora Direct Investments in China** [[Paper](./assets/familiar_stranger_draft_220303.pdf)] [[Slides](./assets/familiar_stranger_slides_220416.pdf)][[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)]<br/>
+**Familiar Strangers: Lineage Connection and Diaspora Direct Investments in China** [[Paper](./assets/familiar_stranger_draft_221010.pdf)] [[Slides](./assets/familiar_stranger_slides_220416.pdf)][[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)]<br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
 **Annexation for Agglomeration: From a Neighbor to a Family Member** <br/>
