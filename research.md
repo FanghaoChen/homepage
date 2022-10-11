@@ -49,7 +49,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
 **地方政府的区域产业政策与招商引资行为：事实、逻辑与绩效**  <br/>
 
-**测度中国制造业在微笑曲线上的位置** <br/>
+**中国制造业微笑曲线上的空间分布与动态变化** <br/>
 樊仲琛, **陈方豪**<sup>*</sup>
 
 ### 2. FDI Spillovers and Diaspora Entrepreneurship ###
