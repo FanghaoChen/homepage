@@ -44,21 +44,18 @@ layout: default
 **Industrial Development in China** <br/>
 Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
-**Endogenous Industrial Policy: Evidence from FDI Regulations in China** <br/>
-**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi Xu
-
 **地方政府的区域产业政策与招商引资行为：事实、逻辑与绩效**  <br/>
 
 **中国制造业微笑曲线上的空间分布与动态变化** <br/>
 樊仲琛, **陈方豪**<sup>*</sup>
 
-### 2. FDI Spillovers and Diaspora Entrepreneurship ###
+**Endogenous Industrial Policy: Evidence from FDI Regulations in China** <br/>
+**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi Xu
+
+### 2. Diaspora Entrepreneurship and FDI Spillovers ###
 
 **Diaspora Investments and Local Development** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
-
-**Diaspora Inventors and Technology Adoption in the Home Country** <br/>
-**Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
 **Lineage Connection, Delegation, and Firm Performance**<br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
