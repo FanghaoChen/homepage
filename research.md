@@ -60,7 +60,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Lineage Connections, Domestic Sourcing, and Foreign Firm Performance**<br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
-**Brain Gains from the Diaspora Network **<br/>
+**Brain Gains from the Diaspora Network**<br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
 ### 3. Theory and Empirics on Firms ###
