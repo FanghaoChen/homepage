@@ -8,7 +8,7 @@ layout: default
 
 ### 2022 ###
 
-**突破城市发展的边界: 撤县设区与城市内部协同发展** [[Paper](./assets/annex_draft_220427.pdf)] <br/>
+**[突破城市发展的边界: 撤县设区与城市内部协同发展](./assets/annex_draft_220427.pdf)** <br/>
 **陈方豪**<sup>*</sup>，叶菁菁 <br/>
 **《经济学(季刊)》** , Forthcoming
 
@@ -16,7 +16,7 @@ layout: default
 **陈方豪**<sup>*</sup>，熊瑞驰 <br/>
 **《中国经济学》(创刊号)** , 2022, 1: 118-158
 
-**禀赋结构一致的技术调整: 技术可转换性、人力资本与结构转型** [[Paper](./assets/techchange_draft_220427.pdf)] <br/>
+**[禀赋结构一致的技术调整: 技术可转换性、人力资本与结构转型](./assets/techchange_draft_220427.pdf)** <br/>
 **陈方豪**<sup>*</sup>，樊仲琛 <br/>
 **《经济学(季刊)》** , Forthcoming
 
@@ -28,7 +28,7 @@ layout: default
 
 ## Working Papers:
 
-**Familiar Strangers: Lineage Connection and Diaspora Direct Investment in China** [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)]<br/>
+**[Familiar Strangers: Lineage Connection and Diaspora Direct Investment in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)]** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
 **Annexation for Agglomeration: From a Neighbor to a Family Member** <br/>
