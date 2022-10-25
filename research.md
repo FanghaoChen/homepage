@@ -31,12 +31,6 @@ layout: default
 **[Familiar Strangers: Lineage Connection and Diaspora Direct Investment in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
-**Annexation for Agglomeration: From a Neighbor to a Family Member** <br/>
-**Fanghao Chen**<sup>*</sup>, Shihe Fu, Jingjing Ye
-
-**Military Entrepreneurship** <br/>
-**Fanghao Chen**<sup>*</sup>, Xiaobo Zhang, Lixin Colin Xu
-
 ## Research in Progress:
 
 ### 1. Industrial Policy and Industrial Evolution ###
