@@ -20,7 +20,6 @@
 [集群的经济学](https://zhuanlan.zhihu.com/p/108385509)，2020年8月 <br/>
 管理的经济学，敬请期待 <br/>
 销售的经济学，敬请期待 <br/>
-选址的经济学，敬请期待 <br/>
 
 ### 学术杂文系列：<br/>
 [《谁是Mr. Tan: 揭秘华人姓氏的英文拼写》](https://mp.weixin.qq.com/s?__biz=MzI4MzQwMDI4Ng==&mid=2247488665&idx=1&sn=463c83013d0ea95f7c9fa55d84196640&chksm=eb8a15a8dcfd9cbecf8e827b6d0a6230363816725f4412aed1707989b672e3a80e7aeb394328&mpshare=1&scene=24&srcid=0730Dc0tK2sZMsyexzLto33b&sharer_sharetime=1627663884197&sharer_shareid=009d752390d3ca9d149b0d31038375f0#rd)，2021年7月 <br/>
