@@ -8,7 +8,7 @@ layout: default
 
 ### 2022 ###
 
-**[突破城市发展的边界: 撤县设区与城市内部协同发展(./assets/annex_draft_221027.pdf)]**[[appendix](./assets/annex_appendix_221027.pdf)] <br/>
+**[突破城市发展的边界: 撤县设区与城市内部协同发展](./assets/annex_draft_221027.pdf)**[[appendix](./assets/annex_appendix_221027.pdf)] <br/>
 **陈方豪**<sup>*</sup>，叶菁菁 <br/>
 **《经济学(季刊)》** , Forthcoming
 
