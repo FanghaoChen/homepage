@@ -8,7 +8,7 @@ layout: default
 
 ### 2022 ###
 
-**[突破城市发展的边界: 撤县设区与城市内部协同发展](./assets/annex_draft_220427.pdf)** <br/>
+**突破城市发展的边界: 撤县设区与城市内部协同发展**[[pdf](./assets/annex_draft_221027.pdf)][[appendix](./assets/annex_appendix_221027.pdf)] <br/>
 **陈方豪**<sup>*</sup>，叶菁菁 <br/>
 **《经济学(季刊)》** , Forthcoming
 
@@ -16,7 +16,7 @@ layout: default
 **陈方豪**<sup>*</sup>，熊瑞驰 <br/>
 **《中国经济学》(创刊号)** , 2022, 1: 118-158
 
-**[禀赋结构一致的技术调整: 技术可转换性、人力资本与结构转型](./assets/techchange_draft_220427.pdf)** <br/>
+**[禀赋结构一致的技术调整: 技术可转换性、人力资本与结构转型](./assets/techchange_draft_221027.pdf)** <br/>
 **陈方豪**<sup>*</sup>，樊仲琛 <br/>
 **《经济学(季刊)》** , Forthcoming
 
