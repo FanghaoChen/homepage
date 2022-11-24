@@ -12,7 +12,7 @@ layout: default
 **陈方豪**<sup>*</sup>，熊瑞驰 <br/>
 **《中国经济学》(创刊号)** , 2022, 1: 118-158
 
-**[突破城市发展的边界: 撤县设区与城市内部协同发展](./assets/annex_draft_221027.pdf)** [[appendix](./assets/annex_appendix_221027.pdf)] <br/>
+**[突破城市发展的边界: 撤县设区与城市内部协同发展](./assets/annex_draft_221027.pdf)** [[附录](./assets/annex_appendix_221027.pdf)] <br/>
 **陈方豪**<sup>*</sup>，叶菁菁 <br/>
 **《经济学(季刊)》** , Forthcoming
 
