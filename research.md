@@ -40,18 +40,18 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
 **地方政府的区域产业政策与招商引资行为：事实、逻辑与绩效**  <br/>
 
-**中国制造业微笑曲线的空间分布与动态变化** <br/>
+**中国产业集群的分布与转移：1982-2015** <br/>
 樊仲琛, **陈方豪**<sup>*</sup>
 
-**Endogenous Industrial Policy: Evidence from FDI Regulations in China** <br/>
-**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi Xu
+**Liberalizing FDI like China** <br/>
+**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
 
 ### 2. Diaspora Entrepreneurship and FDI Spillovers ###
 
-**Diaspora Investments and Local Development** <br/>
+**Diaspora Investment and Local Development** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
-**Lineage Connections, Domestic Sourcing, and Foreign Firm Performance**<br/>
+**The Value of Lineage Connection: Domestic Sourcing and Firm Performance**<br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
 **Brain Gains from the Diaspora Network**<br/>
@@ -59,9 +59,9 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
 ### 3. Theory and Empirics on Firms ###
 
-**Diseconomies of Scale in Product Innovations: Evidence from Chinese Pharmaceutical Industry** <br/>
+**Competitive Bidding and Firm Innovation: Evidence from Chinese Pharmaceutical Industry** <br/>
 Yi Lai, **Fanghao Chen**<sup>*</sup>
 
-**Building the Firm-Specific Competitor Network** <br/>
+**Building a Firm-Specific Competitor Network** <br/>
 **Fanghao Chen**<sup>*</sup>， Shengkai Zhou
 
