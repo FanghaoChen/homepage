@@ -40,7 +40,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
 **地方政府的区域产业政策与招商引资行为：事实、逻辑与绩效**  <br/>
 
-**中国产业集群的分布与转移：1982-2015** <br/>
+**中国产业集群的分布与转移** <br/>
 樊仲琛, **陈方豪**<sup>*</sup>
 
 **Liberalizing FDI like China** <br/>
