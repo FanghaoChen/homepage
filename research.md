@@ -38,13 +38,13 @@ layout: default
 **Industrial Development in China** <br/>
 Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
-**地方政府的区域产业政策与招商引资行为：事实、逻辑与绩效**  <br/>
+**Liberalizing FDI like China** <br/>
+**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
 
 **中国产业集群的分布与转移** <br/>
 樊仲琛, **陈方豪**<sup>*</sup>
 
-**Liberalizing FDI like China** <br/>
-**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
+**地方政府的区域产业政策与招商引资行为：事实、逻辑与绩效**  <br/>
 
 ### 2. Diaspora Entrepreneurship and FDI Spillovers ###
 
