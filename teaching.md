@@ -13,10 +13,10 @@
 # 2022年秋季学期
 
 **学术规范与论文写作 (博士生)** <br/>
-1. 数据与代码规范   [[Slides](./assets/Lec1_CodeData_220911.pdf)] <br/>
-2. 作图的原则与技巧 [[Slides](./assets/Lec2_Figure_220911.pdf)] <br/>
-3. 写作的心法与技法 [[Slides](./assets/Lec3_Writing_220921.pdf)]<br/>
-4. 以学术为业       [[Slides](./assets/Lec4_Academic_220921.pdf)] <br/>
+1. 数据与代码规范   <br/>
+2. 作图的原则与技巧 <br/>
+3. 写作的心法与技法 <br/>
+4. 以学术为业 <br/>
 
 **城市经济理论与珠三角合作研究 (外招博士生)** <br/>
 **讲授部分：外商直接投资与区域经济发展**
