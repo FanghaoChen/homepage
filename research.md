@@ -31,7 +31,7 @@ layout: default
 **[Familiar Strangers: Lineage Connection and Diaspora Direct Investment in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
-**The Impacts of Volume-Based Procurement on Pharmaceutical Innovation: Evidence from China**
+**The Impacts of Volume-Based Procurement on Pharmaceutical Innovation: Evidence from China** <br/>
 Yi Lai, **Fanghao Chen**<sup>*</sup>
 
 ## Research in Progress:
