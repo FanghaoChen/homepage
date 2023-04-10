@@ -31,6 +31,9 @@ layout: default
 **[Familiar Strangers: Lineage Connection and Diaspora Direct Investment in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
+**The Impacts of Volume-Based Procurement on Pharmaceutical Innovation: Evidence from China**
+Yi Lai, **Fanghao Chen**<sup>*</sup>
+
 ## Research in Progress:
 
 ### 1. Industrial Policy and Industrial Evolution ###
@@ -58,9 +61,6 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
 ### 3. Theory and Empirics on Firms ###
-
-**Competitive Bidding and Firm Innovation: Evidence from Chinese Pharmaceutical Industry** <br/>
-Yi Lai, **Fanghao Chen**<sup>*</sup>
 
 **Building a Firm-Specific Competitor Network** <br/>
 **Fanghao Chen**<sup>*</sup>， Shengkai Zhou
