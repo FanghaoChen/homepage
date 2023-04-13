@@ -54,7 +54,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Diaspora Investment and Local Development** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
-**Diaspora and Domestic Sourcing**<br/>
+**Diaspora Network and Domestic Sourcing**<br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
 **Learning from Diaspora Network**<br/>
