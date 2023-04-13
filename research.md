@@ -49,7 +49,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
 **地方政府的区域产业政策与招商引资行为：事实、逻辑与绩效**  <br/>
 
-### 2. Diaspora Entrepreneurship and FDI Spillovers ###
+### 2. Chinese Diaspora and FDI in China ###
 
 **Diaspora Investment and Local Development** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
@@ -57,10 +57,10 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **The Value of Lineage Connection: Domestic Sourcing and Firm Performance**<br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
-**Brain Gains from the Diaspora Network**<br/>
+**Learning from Diaspora Network**<br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
-### 3. Theory and Empirics on Firms ###
+### 3. Firm Theory ###
 
 **Building a Firm-Specific Competitor Network** <br/>
 **Fanghao Chen**<sup>*</sup>， Shengkai Zhou
