@@ -28,11 +28,14 @@ layout: default
 
 ## Working Papers:
 
-**[Familiar Strangers: Lineage Connection and Diaspora Direct Investment in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
+**Familiar Strangers: Diaspora Network, Foreign Investment, and Long-run Development** [updated version upon request] <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
-**The Impacts of Volume-Based Procurement on Pharmaceutical Innovation: Evidence from China** <br/>
-Yi Lai, **Fanghao Chen**<sup>*</sup>
+**Volume-Based Procurement and Pharmaceutical Innovations** <br/>
+Yi Lai, **Fanghao Chen***<sup>*</sup>, Hongqiao Fu
+
+**跨国宗族网络与本土家族成员的经济社会福利：来自涉侨族谱的证据** <br/>
+**陈方豪**<sup>*</sup>, 左毅博
 
 ## Research in Progress:
 
@@ -46,8 +49,6 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
 **中国产业集群的分布与转移** <br/>
 樊仲琛, **陈方豪**<sup>*</sup>
-
-**地方政府的区域产业政策与招商引资行为：事实、逻辑与绩效**  <br/>
 
 ### 2. Chinese Diaspora and FDI in China ###
 
