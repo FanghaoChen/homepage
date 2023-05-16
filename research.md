@@ -32,9 +32,9 @@ layout: default
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
 **Volume-Based Procurement and Pharmaceutical Innovations** <br/>
-Yi Lai, **Fanghao Chen***<sup>*</sup>, Hongqiao Fu
+Yi Lai, **Fanghao Chen**<sup>*</sup>, Hongqiao Fu
 
-**跨国宗族网络与本土家族成员的经济社会福利：来自涉侨族谱的证据** <br/>
+**海外宗族网络的经济福利效应：来自涉侨族谱的证据** <br/>
 **陈方豪**<sup>*</sup>, 左毅博
 
 ## Research in Progress:
@@ -58,7 +58,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Diaspora Network and Domestic Sourcing**<br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
-**Learning from Diaspora Network**<br/>
+**Learning through Diaspora Network**<br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
 ### 3. Firm Theory ###
