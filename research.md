@@ -44,9 +44,6 @@ Yi Lai, **Fanghao Chen**<sup>*</sup>, Hongqiao Fu
 **Industrial Development in China** <br/>
 Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
-**Liberalizing FDI like China** <br/>
-**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
-
 **中国产业集群的分布与转移** <br/>
 樊仲琛, **陈方豪**<sup>*</sup>
 
@@ -61,7 +58,10 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Learning through Diaspora Network**<br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
-### 3. Firm Theory ###
+**Liberalizing FDI like China** <br/>
+**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
+
+### 3. Miscellaneous ###
 
 **Building a Firm-Specific Competitor Network** <br/>
 **Fanghao Chen**<sup>*</sup>， Shengkai Zhou
