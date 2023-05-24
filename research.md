@@ -6,11 +6,7 @@ layout: default
 
 ## Publications:
 
-### 2022 ###
-
-**[以侨为侨：侨资企业与中国的外向型发展](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44wp2hFvIb_znleNvEqg4RtCv9vPRf2sA-jdv978489j6hLoFZlwBqHsT6Mr6DFMMps2en_HrmWTJths_yH02b1&uniplatform=NZKPT)** <br/>
-**陈方豪**<sup>*</sup>，熊瑞驰 <br/>
-**《中国经济学》(创刊号)** , 2022, 1: 118-158
+### 2023 ###
 
 **[突破城市发展的边界: 撤县设区与城市内部协同发展](./assets/annex_draft_221027.pdf)** [[附录](./assets/annex_appendix_221027.pdf)] <br/>
 **陈方豪**<sup>*</sup>，叶菁菁 <br/>
@@ -19,6 +15,12 @@ layout: default
 **[禀赋结构一致的技术调整: 技术可转换性、人力资本与结构转型](./assets/techchange_draft_221027.pdf)** <br/>
 **陈方豪**<sup>*</sup>，樊仲琛 <br/>
 **《经济学(季刊)》** , Forthcoming
+
+### 2022 ###
+
+**[以侨为侨：侨资企业与中国的外向型发展](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44wp2hFvIb_znleNvEqg4RtCv9vPRf2sA-jdv978489j6hLoFZlwBqHsT6Mr6DFMMps2en_HrmWTJths_yH02b1&uniplatform=NZKPT)** <br/>
+**陈方豪**<sup>*</sup>，熊瑞驰 <br/>
+**《中国经济学》(创刊号)** , 2022, 1: 118-158
 
 ### 2017 ###
 
