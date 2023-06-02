@@ -39,7 +39,7 @@ Yi Lai, **Fanghao Chen**<sup>*</sup>, Hongqiao Fu
 **海外宗族网络的经济福利效应：来自涉侨族谱的证据** <br/>
 **陈方豪**<sup>*</sup>, 左毅博
 
-## Research in Progress:
+## Selected Work in Progress:
 
 ### 1. Industrial Policy and Industrial Evolution ###
 
@@ -48,6 +48,9 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
 **中国产业集群的分布与转移** <br/>
 樊仲琛, **陈方豪**<sup>*</sup>
+
+**Pricing Agglomerations**  <br/>
+**Fanghao Chen**<sup>*</sup>
 
 ### 2. Chinese Diaspora and FDI in China ###
 
