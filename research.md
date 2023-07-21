@@ -30,7 +30,7 @@ layout: default
 
 ## Working Papers:
 
-**Familiar Strangers: Diaspora Network, Foreign Investment, and Long-run Development** [updated version available upon request] <br/>
+**[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
 **Volume-Based Procurement and Pharmaceutical Innovations** <br/>
