@@ -69,7 +69,7 @@ Ruichi Xiong, **Fanghao Chen**<sup>*</sup>， Shan Zhao
 **Domestic Sourcing Through Local Networks**<br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
-**The Importance of Diaspora Inventors in Chinese Technoligies**<br/>
+**The Importance of Diaspora Inventors in Chinese Technologies**<br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
 
