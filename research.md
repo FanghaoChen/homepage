@@ -41,7 +41,7 @@ Yi Lai, **Fanghao Chen**<sup>*</sup>, Hongqiao Fu
 
 ## Selected Work in Progress:
 
-### 1. Industrial Policy and Industrial Evolution ###
+### 1. Urban, Regional and Industrial Economics ###
 
 **Industrial Development in China** <br/>
 Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
@@ -52,22 +52,25 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Pricing Agglomerations**  <br/>
 **Fanghao Chen**<sup>*</sup>
 
-### 2. Chinese Diaspora and FDI in China ###
+**Understanding Chinese Industrial Policies** <br/>
+**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
 
-**Diaspora Investment and Local Development** <br/>
+**Building a Firm-Specific Competitor Network** <br/>
+**Fanghao Chen**<sup>*</sup>， Shengkai Zhou
+
+**Directed Urban Sprawl: Urban Geometry and the Growth of Chinese Cities**
+Ruichi Xiong, **Fanghao Chen**<sup>*</sup>， Shan Zhao
+
+### 2. Migration, Trade, FDI and Development ###
+
+**Diaspora Investment, Spin-offs and Local Development** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
-**Diaspora Network and Domestic Sourcing**<br/>
+**Domestic Sourcing Through Local Networks**<br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
 **Learning through Diaspora Network**<br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong
 
-**Liberalizing FDI like China** <br/>
-**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
 
-### 3. Miscellaneous ###
-
-**Building a Firm-Specific Competitor Network** <br/>
-**Fanghao Chen**<sup>*</sup>， Shengkai Zhou
 
