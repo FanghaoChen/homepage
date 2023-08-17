@@ -58,7 +58,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Building a Firm-Specific Competitor Network** <br/>
 **Fanghao Chen**<sup>*</sup>， Shengkai Zhou
 
-**Directed Urban Sprawl: Urban Geometry and the Growth of Chinese Cities**
+**Directed Urban Sprawl: Urban Geometry and the Growth of Chinese Cities** <br/>
 Ruichi Xiong, **Fanghao Chen**<sup>*</sup>， Shan Zhao
 
 ### 2. Migration, Trade, FDI and Development ###
