@@ -12,6 +12,7 @@
 
 ### 媒体专稿：<br/>
 [《侨商是广东走向高质量发展的重要助力》](https://m.21jingji.com/article/20230226/herald/e2e4d3fb4d0065ef936414ad29c15860.html), 2023年2月，21世纪经济报道
+[《广东锻造制造业当家“主心骨”》](https://new.qq.com/rain/a/20230104A01NGR00)，2023年1月，南方日报
 
 ### 远川出海系列：<br/>
 [《被中东土豪圈粉的世界石都》](https://mp.weixin.qq.com/s?__biz=MzkzMTAyOTU3Nw==&mid=2247489455&idx=1&sn=4c3c71002cf900a43247b081f6fd6526&chksm=c2706089f507e99fe98f530b2cc87c3a2461b6c9e90aa77e108e42b138561f3f56ee8a9fb38a&mpshare=1&scene=2&srcid=1127iTPFctEMJkf4I8FkZG5c&sharer_sharetime=1638023245653&sharer_shareid=009d752390d3ca9d149b0d31038375f0#rd)，2021年11月，被澎湃新闻、36氪、虎嗅网转载 <br/>
