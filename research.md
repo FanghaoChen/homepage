@@ -14,7 +14,7 @@ layout: default
 
 **[突破城市发展的边界: 撤县设区与城市内部协同发展](./assets/annex_draft_221027.pdf)** [[附录](./assets/annex_appendix_221027.pdf)] <br/>
 **陈方豪**<sup>*</sup>，叶菁菁 <br/>
-**《经济学(季刊)》** , Forthcoming
+**《经济学(季刊)》** , 2023, 23(5)
 
 ### 2022 ###
 
@@ -33,11 +33,11 @@ layout: default
 **[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
-**Volume-Based Procurement and Pharmaceutical Innovations** <br/>
-Yi Lai, **Fanghao Chen**<sup>*</sup>, Hongqiao Fu
-
 **海外宗族网络的经济福利效应：来自涉侨族谱的证据** <br/>
 **陈方豪**<sup>*</sup>, 左毅博
+
+**Volume-Based Procurement and Pharmaceutical Innovations** <br/>
+Yi Lai, **Fanghao Chen**<sup>*</sup>, Hongqiao Fu
 
 ## Selected Work in Progress:
 
@@ -52,13 +52,13 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Pricing Agglomerations**  <br/>
 **Fanghao Chen**<sup>*</sup>
 
-**Understanding Chinese Industrial Policies** <br/>
+**Digitalizing Chinese Industrial Policies** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
 
-**Building a Firm-Specific Competitor Network** <br/>
+**Firm-Specific Competitor Network** <br/>
 **Fanghao Chen**<sup>*</sup>， Shengkai Zhou
 
-**Directed Urban Sprawl: Urban Geometry and the Growth of Chinese Cities** <br/>
+**Fragmented Cities** <br/>
 Ruichi Xiong, **Fanghao Chen**<sup>*</sup>， Shan Zhao
 
 ### 2. Migration, Trade, FDI and Development ###
