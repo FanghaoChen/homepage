@@ -8,7 +8,7 @@ layout: default
 
 ### 2023 ###
 
-**[突破城市发展的边界: 撤县设区与城市内部协同发展]([./assets/annex_draft_221027.pdf](https://medlib.jnu.edu.cn/s/net/cnki/kns/G.https/kcms2/article/abstract?v=T-ziT3f7Rg-A6suuu7NyNitxO7hy0V9wn4auN9BAVSBF8jD0ys2eBA4HAOOGwf898jNWmNUyHC1UsIemAWFyxohkryh2ZK6ohn0BDSZUoeVrDI-wdlIgfAFcEaw6qx8-_SHMLdnPF40=&uniplatform=NZKPT&language=CHS))** <br/>
+**[突破城市发展的边界: 撤县设区与城市内部协同发展]([./assets/annex_draft_221027.pdf](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50n7EU_Z-wbXjeFakIz3y_vL3dvRn-TuT5U_CawJogt94NfcQEhpGcGd&uniplatform=NZKPT))** <br/>
 **陈方豪**<sup>*</sup>，叶菁菁 <br/>
 **《经济学(季刊)》** , 2023, 23(5): 1776-1792
 
