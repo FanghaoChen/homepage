@@ -4,7 +4,7 @@
 
 [暨南大学经济学院](https://ec.jnu.edu.cn/)助理教授，2022年毕业于北京大学国家发展研究院，获经济学博士学位，多伦多大学访问学者；主要研究领域为海外华人与华商研究、发展经济学、城市与区域经济学、国际经济学。我的研究主线是中国的区域产业发展与全球市场的关系，中国在全球价值链中的位置，以及中国企业的国际化进程。当前的研究重心为海外华人华商与中国产业发展之间的联系。我关于侨资企业的研究梳理与展望可以点击[这里](https://kns.cnki.net/kcms2/article/abstract?v=miRwvmqqcdlteriJMAI_6frAN94hMS3aOuBeWxKEZgUYYhNmVAyuUCte5twbsrrLFK0i5HvhkCSL-ixoJLyBZL7sD1RVILRzUsC78wpfyQPBDDybmH7230FjY76RTbFm0qov9R3b7Qw=&uniplatform=NZKPT)查看。核心论文可以点击[这里](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)查看。
 
-更多关于我的信息，可以参见我的[中文简历](./assets/陈方豪_暨大经院_230524.pdf)，或[我的研究经历](https://mp.weixin.qq.com/s?__biz=Mzg4MzE0ODY0Mw==&mid=2247491382&idx=1&sn=992dc4dda38bfd95d5c2b47848fc5a81&chksm=cf4a8d3af83d042c96f68c98b9406eab25df4ce418b6778fccdee755fc9e499decfb44498855&mpshare=1&scene=24&srcid=12203KNxFd0xsEh7nM7ZzhKn&sharer_sharetime=1639991731014&sharer_shareid=009d752390d3ca9d149b0d31038375f0#rd)。
+更多关于我的信息，可以参见我的[中文简历](./assets/陈方豪_暨大经院_231103.pdf)，或[我的研究经历](https://mp.weixin.qq.com/s?__biz=Mzg4MzE0ODY0Mw==&mid=2247491382&idx=1&sn=992dc4dda38bfd95d5c2b47848fc5a81&chksm=cf4a8d3af83d042c96f68c98b9406eab25df4ce418b6778fccdee755fc9e499decfb44498855&mpshare=1&scene=24&srcid=12203KNxFd0xsEh7nM7ZzhKn&sharer_sharetime=1639991731014&sharer_shareid=009d752390d3ca9d149b0d31038375f0#rd)。
 
 ## 媒体影响力
 
