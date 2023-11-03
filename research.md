@@ -33,7 +33,7 @@ layout: default
 **[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
-**海外宗族网络的经济福利效应：来自涉侨族谱的证据** <br/>
+**海外宗族网络对本土成员经济福利的影响————来自涉侨族谱的证据** <br/>
 **陈方豪**<sup>*</sup>, 左毅博
 
 **Volume-Based Procurement and Pharmaceutical Innovations** <br/>
@@ -52,7 +52,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Pricing Agglomerations**  <br/>
 **Fanghao Chen**<sup>*</sup>
 
-**Digitalizing Chinese Industrial Policies** <br/>
+**The Determinants and Effects of Chinese Industrial Policies** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
 
 **Firm-Specific Competitor Network** <br/>
@@ -61,16 +61,13 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Fragmented Cities** <br/>
 Ruichi Xiong, **Fanghao Chen**<sup>*</sup>， Shan Zhao
 
-### 2. Migration, Trade, FDI and Development ###
+### 2. Migration, Trade, FDI, Entrepreneurship and Development ###
 
-**Diaspora Investment, Spin-offs and Local Development** <br/>
+**Spin-off Entrepreneurship** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
-**Domestic Sourcing Through Local Networks**<br/>
-**Fanghao Chen**<sup>*</sup>, Ruichi Xiong
-
-**The Importance of Diaspora Inventors in Chinese Technologies**<br/>
-**Fanghao Chen**<sup>*</sup>, Ruichi Xiong
+**Diaspora Inventors**<br/>
+**Fanghao Chen**<sup>*</sup>
 
 
 
