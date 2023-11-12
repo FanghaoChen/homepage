@@ -61,7 +61,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Fragmented Cities** <br/>
 Ruichi Xiong, **Fanghao Chen**<sup>*</sup>， Shan Zhao
 
-### 2. Migration, Trade, FDI, Entrepreneurship and Development ###
+### 2. Development and International Economics ###
 
 **Spin-off Entrepreneurship** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
