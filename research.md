@@ -41,7 +41,7 @@ Yi Lai, **Fanghao Chen**<sup>*</sup>, Hongqiao Fu
 
 ## Selected Work in Progress:
 
-### 1. Urban, Regional and Industrial Economics ###
+### 1. Urban and Industrial Economics ###
 
 **Industrial Development in China** <br/>
 Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
