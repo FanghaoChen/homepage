@@ -34,7 +34,7 @@ layout: default
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
 **海外宗族网络对本土成员经济福利的影响————来自涉侨族谱的证据** <br/>
-**陈方豪**<sup>*</sup>, 左毅博
+**陈方豪**<sup>*</sup>, 左毅博, 龙登高
 
 **Volume-Based Procurement and Pharmaceutical Innovations** <br/>
 Yi Lai, **Fanghao Chen**<sup>*</sup>, Hongqiao Fu
