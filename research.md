@@ -33,11 +33,11 @@ layout: default
 **[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
+**Military Entrepreneurship in China** <br/>
+**Fanghao Chen**<sup>*</sup>, Xiaobo Zhang
+
 **海外宗族网络对本土成员经济福利的影响————来自涉侨族谱的证据** <br/>
 **陈方豪**<sup>*</sup>, 左毅博, 龙登高
-
-**Volume-Based Procurement and Pharmaceutical Innovations** <br/>
-Yi Lai, **Fanghao Chen**<sup>*</sup>, Hongqiao Fu
 
 ## Selected Work in Progress:
 
@@ -60,6 +60,9 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 
 **Fragmented Cities** <br/>
 Ruichi Xiong, **Fanghao Chen**<sup>*</sup>， Shan Zhao
+
+**Volume-Based Procurement and Pharmaceutical Innovations** <br/>
+Yi Lai, **Fanghao Chen**<sup>*</sup>, Hongqiao Fu
 
 ### 2. Development and International Economics ###
 
