@@ -72,7 +72,7 @@ Yi Lai, **Fanghao Chen**<sup>*</sup>, Hongqiao Fu
 **Diaspora Inventors**<br/>
 **Fanghao Chen**<sup>*</sup>
 
-**Overseas Clan Genealogies Project**
+**Overseas Clan Genealogies Project**<br/>
 **Fanghao Chen**<sup>*</sup>, Bin Xie
 
 
