@@ -15,14 +15,14 @@ layout: default
 
 **[禀赋结构一致的技术调整: 技术可转换性、人力资本与结构转型](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50n7EU_Z-wbXjTajTLE0Q212OC_2e9Ey6tEM2Bigkp2lsphd1d031YnA&uniplatform=NZKPT)** <br/>
 **陈方豪**<sup>*</sup>，樊仲琛 <br/>
-**《经济学(季刊)》** , 2023, 23(4): 1336-1355
+**《经济学(季刊)》** , 2023, 23(4): 1336-1355  <br/>
 <em> *封面文章 <em>
 
 ### 2022 ###
 
 **[以侨为侨：侨资企业与中国的外向型发展](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44wp2hFvIb_znleNvEqg4RtCv9vPRf2sA-jdv978489j6hLoFZlwBqHsT6Mr6DFMMps2en_HrmWTJths_yH02b1&uniplatform=NZKPT)** <br/>
 **陈方豪**<sup>*</sup>，熊瑞驰 <br/>
-**《中国经济学》** , 2022, 1: 118-158
+**《中国经济学》** , 2022, 1: 118-158 <br/>
 <em> *创刊号、社会科学文献出版社“优秀新创集刊” <em>
 
 ### 2017 ###
