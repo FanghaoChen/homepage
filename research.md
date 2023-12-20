@@ -53,7 +53,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 樊仲琛, **陈方豪**<sup>*</sup>
 
 **Pricing Agglomerations**  <br/>
-**Fanghao Chen**<sup>*</sup>
+**Fanghao Chen**<sup>*</sup>, Yibo Zuo
 
 **Technological Advantage vs. Comparative Advantage** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
@@ -62,7 +62,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Shaoda Wang
 
 **Fragmented Cities** <br/>
-Ruichi Xiong, **Fanghao Chen**<sup>*</sup>， Shan Zhao
+Ruichi Xiong, **Fanghao Chen**<sup>*</sup>, Shan Zhao
 
 **Volume-Based Procurement and Pharmaceutical Innovations** <br/>
 Yi Lai, **Fanghao Chen**<sup>*</sup>, Hongqiao Fu
