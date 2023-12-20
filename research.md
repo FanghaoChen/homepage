@@ -69,11 +69,10 @@ Yi Lai, **Fanghao Chen**<sup>*</sup>, Hongqiao Fu
 
 ### 2. Development and International Economics ###
 
-**Spin-off Entrepreneurship** <br/>
-**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
-
 **Diaspora Inventors**<br/>
 **Fanghao Chen**<sup>*</sup>
 
+**Overseas Clan Genealogies Project**
+**Fanghao Chen**<sup>*</sup>, Bin Xie
 
 
