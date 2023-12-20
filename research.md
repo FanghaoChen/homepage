@@ -59,7 +59,7 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
 
 **Political Economy of Chinese Industrial Policies** <br/>
-**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Shaoda Wang, Zhongchen Fan
+**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Shaoda Wang
 
 **Fragmented Cities** <br/>
 Ruichi Xiong, **Fanghao Chen**<sup>*</sup>， Shan Zhao
