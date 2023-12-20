@@ -11,19 +11,19 @@ layout: default
 **[突破城市发展的边界: 撤县设区与城市内部协同发展](https://kns.cnki.net/kcms2/article/abstract?v=La2KlAOQ31QZ4LHEPRQTy3rMKKKmAzji44UI9zGYtUF7O-Hst4RrHDEbrvmNwcksyy8F1g00KvW27S5d7idZV7A_dXlqbPZQDJp9iV2LvNK1BUfxCDZBPd0Kay9nBRVAvqae6y0tueE=&uniplatform=NZKPT&language=CHS)** <br/>
 **陈方豪**<sup>*</sup>，叶菁菁 <br/>
 **《经济学(季刊)》** , 2023, 23(5): 1776-1792 <br/>
-<em> *封面文章 <em>
+<em> *封面文章 </em>
 
 **[禀赋结构一致的技术调整: 技术可转换性、人力资本与结构转型](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50n7EU_Z-wbXjTajTLE0Q212OC_2e9Ey6tEM2Bigkp2lsphd1d031YnA&uniplatform=NZKPT)** <br/>
 **陈方豪**<sup>*</sup>，樊仲琛 <br/>
 **《经济学(季刊)》** , 2023, 23(4): 1336-1355  <br/>
-<em> *封面文章 <em>
+<em> *封面文章 </em>
 
 ### 2022 ###
 
 **[以侨为侨：侨资企业与中国的外向型发展](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44wp2hFvIb_znleNvEqg4RtCv9vPRf2sA-jdv978489j6hLoFZlwBqHsT6Mr6DFMMps2en_HrmWTJths_yH02b1&uniplatform=NZKPT)** <br/>
 **陈方豪**<sup>*</sup>，熊瑞驰 <br/>
 **《中国经济学》** , 2022, 1: 118-158 <br/>
-<em> *创刊号、社会科学文献出版社“优秀新创集刊” <em>
+<em> *创刊号、社会科学文献出版社“优秀新创集刊” </em>
 
 ### 2017 ###
 
@@ -36,11 +36,11 @@ layout: default
 **[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
 
-**Military Entrepreneurship in China** <br/>
-**Fanghao Chen**<sup>*</sup>, Xiaobo Zhang
-
 **海外宗族网络对本土成员经济福利的影响————来自涉侨族谱的证据** <br/>
 **陈方豪**<sup>*</sup>, 左毅博, 龙登高
+
+**军人是天生的创业者吗？————参军经历与创业行为** <br/>
+**陈方豪**<sup>*</sup>, 张晓波
 
 ## Selected Work in Progress:
 
@@ -55,11 +55,11 @@ Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
 **Pricing Agglomerations**  <br/>
 **Fanghao Chen**<sup>*</sup>
 
-**The Determinants and Effects of Chinese Industrial Policies** <br/>
+**Technological Advantage vs. Comparative Advantage** <br/>
 **Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
 
-**Firm-Specific Competitor Network** <br/>
-**Fanghao Chen**<sup>*</sup>， Shengkai Zhou
+**Political Economy of Chinese Industrial Policies** <br/>
+**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Shaoda Wang, Zhongchen Fan
 
 **Fragmented Cities** <br/>
 Ruichi Xiong, **Fanghao Chen**<sup>*</sup>， Shan Zhao
