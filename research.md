@@ -69,7 +69,7 @@ Yi Lai, **Fanghao Chen**<sup>*</sup>, Hongqiao Fu
 
 ### 2. Development and International Economics ###
 
-**涉侨族谱的电子化工作**<br/>
+**跨境移民的因和果：基于涉侨族谱的证据**<br/>
 **Fanghao Chen**<sup>*</sup>, Bin Xie
 
 **Diaspora Inventors**<br/>
