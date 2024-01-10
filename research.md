@@ -20,7 +20,7 @@ layout: default
 
 ### 2022 ###
 
-**[以侨为侨：侨资企业与中国的外向型发展](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44wp2hFvIb_znleNvEqg4RtCv9vPRf2sA-jdv978489j6hLoFZlwBqHsT6Mr6DFMMps2en_HrmWTJths_yH02b1&uniplatform=NZKPT)** <br/>
+**[以侨为桥：侨资企业与中国的外向型发展](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44wp2hFvIb_znleNvEqg4RtCv9vPRf2sA-jdv978489j6hLoFZlwBqHsT6Mr6DFMMps2en_HrmWTJths_yH02b1&uniplatform=NZKPT)** <br/>
 **陈方豪**<sup>*</sup>，熊瑞驰 <br/>
 **《中国经济学》** , 2022, 1: 118-158 <br/>
 <em> *创刊号、社会科学文献出版社“优秀新创集刊” (2022) </em>
