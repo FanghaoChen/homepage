@@ -4,6 +4,18 @@ layout: default
 
 [HOME](./index.md) | [CV](./assets/CV_FanghaoChen_231105.pdf) | [**RESEARCH**](./research.md) | [TEACHING](./teaching.md) | [中文](./chinesepage.md) | [LINKS](./links.md)
 
+## Working Papers:
+
+**[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
+**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
+
+**海外宗族网络对本土成员经济福利的影响————来自涉侨族谱的证据** <br/>
+**陈方豪**<sup>*</sup>, 左毅博, 龙登高
+
+**参军经历、退伍政策与创业行为** <br/>
+**陈方豪**<sup>*</sup>, 张晓波
+ 录用待刊于 **《制度经济学研究》**
+ 
 ## Publications:
 
 ### 2023 ###
@@ -30,17 +42,6 @@ layout: default
 **[个人所得税减免会增加劳动供给吗?——来自准自然实验的证据](http://www.cnki.com.cn/Article/CJFDTOTAL-GLSJ201712009.htm)** <br/>
 叶菁菁，吴燕，**陈方豪**<sup>*</sup>，王宇晴 <br/>
 **《管理世界》** , 2017, 12: 20-32
-
-## Working Papers:
-
-**[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
-**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
-
-**海外宗族网络对本土成员经济福利的影响————来自涉侨族谱的证据** <br/>
-**陈方豪**<sup>*</sup>, 左毅博, 龙登高
-
-**参军经历、退伍政策与创业行为** <br/>
-**陈方豪**<sup>*</sup>, 张晓波
 
 ## Selected Work in Progress:
 
