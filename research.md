@@ -7,10 +7,10 @@ layout: default
 ## Working Papers:
 
 **[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
-**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang
+with Ruichi Xiong, Xiaobo Zhang
 
 **海外宗族网络对本土成员经济福利的影响————来自涉侨族谱的证据** <br/>
-**陈方豪**<sup>*</sup>, 左毅博, 龙登高
+with 左毅博, 龙登高
 
 **参军经历、退伍政策与创业行为** <br/>
 **陈方豪**<sup>*</sup>, 张晓波 <br/>
@@ -48,36 +48,35 @@ layout: default
 ### 1. Urban and Industrial Economics ###
 
 **Industrial Development in China** <br/>
-Loren Brandt, Gilles Duranton, **Fanghao Chen**<sup>*</sup>
+with Loren Brandt, Gilles Duranton
 
 **中国产业集群的分布与转移** <br/>
-樊仲琛, **陈方豪**<sup>*</sup>
+with Zhongchen Fan
 
 **Pricing Agglomerations**  <br/>
-**Fanghao Chen**<sup>*</sup>, Yibo Zuo
-
-**Technological Advantage vs. Comparative Advantage** <br/>
-**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
-
-**Political Economy of Chinese Industrial Policies** <br/>
-**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Zhongchen Fan, Shaoda Wang
+with Yibo Zuo, Shiyu Bo
 
 **Fragmented Cities** <br/>
-Ruichi Xiong, **Fanghao Chen**<sup>*</sup>, Shan Zhao
+with Ruichi Xiong, Shan Zhao
 
-**Volume-Based Procurement and Pharmaceutical Innovations** <br/>
-Yi Lai, **Fanghao Chen**<sup>*</sup>, Hongqiao Fu
+**Technological Advantage vs. Comparative Advantage** <br/>
+with Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
+
+**Political Economy of Chinese Industrial Policies** <br/>
+with Ruichi Xiong, Zhongchen Fan, Shaoda Wang
 
 ### 2. Development and International Economics ###
 
 **跨境移民的因和果：基于涉侨族谱的证据**<br/>
-**Fanghao Chen**<sup>*</sup>, Bin Xie
+with Bin Xie, Yibo Zuo
 
 **Chinese Outward FDIs in Southeastern Asia: Industrial Relocation or Industrial Spilovers?** <br/>
-Jinrui Xi，**Fanghao Chen**<sup>*</sup>
+with Jinrui Xi
 
-**Diaspora Inventors**<br/>
-**Fanghao Chen**<sup>*</sup>
+**Homemade Foreign Partners**<br/>
+with Mingmei Liu, Ning Qin
 
+### 3. Business Economics ###
 
-
+**Volume-Based Procurement and Pharmaceutical Innovations** <br/>
+with Yi Lai, Hongqiao Fu
