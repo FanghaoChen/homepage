@@ -10,7 +10,7 @@ layout: default
 with Ruichi Xiong, Xiaobo Zhang
 
 **海外宗族网络对本土成员经济福利的影响————来自涉侨族谱的证据** <br/>
-with 左毅博, 龙登高
+with 左毅博, 龙登高 <br/>
  <em> R&R at </em> **《经济学（季刊）》**
  
 **参军经历、退伍政策与创业行为** <br/>
