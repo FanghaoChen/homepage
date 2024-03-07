@@ -71,7 +71,7 @@ with Ruichi Xiong, Zhongchen Fan, Shaoda Wang
 **跨境移民的因和果：基于涉侨族谱的证据**<br/>
 with Bin Xie, Yibo Zuo
 
-**Chinese Outward FDIs in Southeastern Asia: Industrial Relocation or Industrial Spilovers?** <br/>
+**Chinese OFDI in Southeastern Asia: Industrial Relocation or Industrial Spilovers?** <br/>
 with Jinrui Xi
 
 **Homemade Foreign Partners**<br/>
