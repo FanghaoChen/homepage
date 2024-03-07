@@ -68,14 +68,14 @@ with Ruichi Xiong, Zhongchen Fan, Shaoda Wang
 
 ### 2. Development and International Economics ###
 
-**跨境移民的因和果：基于涉侨族谱的证据**<br/>
+**The Push and Pull Factors Behind Historical Emigration in China: Evidence from a Transnational Genealogy**<br/>
 with Bin Xie, Yibo Zuo
-
-**Chinese OFDI in Southeastern Asia: Industrial Relocation or Industrial Spilovers?** <br/>
-with Jinrui Xi
 
 **Homemade Foreign Partners**<br/>
 with Mingmei Liu, Ning Qin
+
+**Chinese OFDI in Southeastern Asia: Industrial Relocation or Industrial Spilovers?** <br/>
+with Jinrui Xi
 
 **From "Made in China" to "Made by Chinese (Firms)"**
 
