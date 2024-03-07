@@ -63,7 +63,7 @@ with Ruichi Xiong, Shan Zhao
 **Technological Advantage vs. Comparative Advantage** <br/>
 with Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
 
-**Political Economy of Chinese Industrial Policies** <br/>
+**Policy Learning in China's Industrial Policies** <br/>
 with Ruichi Xiong, Zhongchen Fan, Shaoda Wang
 
 ### 2. Development and International Economics ###
