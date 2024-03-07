@@ -77,6 +77,8 @@ with Jinrui Xi
 **Homemade Foreign Partners**<br/>
 with Mingmei Liu, Ning Qin
 
+**From "Made in China" to "Made by Chinese (Firms)"**
+
 ### 3. Business Economics ###
 
 **Volume-Based Procurement and Pharmaceutical Innovations** <br/>
