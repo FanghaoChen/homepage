@@ -6,6 +6,12 @@ layout: default
 
 ## Working Papers:
 
+**Unveiling Emigration Dynamics: Evidence from a Transnational Genealogy in China**<br/>
+with Bin Xie, Yibo Zuo
+ <em> invited to present at </em> 
+ Use of Genealogical Sources in Economic History @ LSE <br/>
+ Chinese Economic History from a Comparative Perspective @ Oxford <br/>
+ 
 **[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
 with Ruichi Xiong, Xiaobo Zhang
 
@@ -67,9 +73,6 @@ with Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
 with Ruichi Xiong, Zhongchen Fan, Shaoda Wang
 
 ### 2. Development and International Economics ###
-
-**The Push and Pull Factors Behind Historical Emigration in China: Evidence from a Transnational Genealogy**<br/>
-with Bin Xie, Yibo Zuo
 
 **Homemade Foreign Partners**<br/>
 with Mingmei Liu, Ning Qin
