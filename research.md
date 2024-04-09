@@ -9,7 +9,10 @@ layout: default
 **Unveiling Emigration Dynamics: Evidence from a Transnational Genealogy in China**<br/>
 with Bin Xie, Yibo Zuo  <br/>
 <em> Debut at Use of Genealogical Sources in Economic History @ LSE, Chinese Economic History from a Comparative Perspective @ Oxford </em>  <br/>
- 
+
+ **以“侨智”助力科技进步：涉侨专利的测度、特征与影响** <br/>
+with 周圣楷, 谢宝剑 <br/>
+
 **[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
 with Ruichi Xiong, Xiaobo Zhang
 
