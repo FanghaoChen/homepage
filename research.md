@@ -36,7 +36,7 @@ with 左毅博, 龙登高 <br/>
 **[禀赋结构一致的技术调整: 技术可转换性、人力资本与结构转型](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50n7EU_Z-wbXjTajTLE0Q212OC_2e9Ey6tEM2Bigkp2lsphd1d031YnA&uniplatform=NZKPT)** <br/>
 **陈方豪**<sup>*</sup>，樊仲琛 <br/>
 **《经济学(季刊)》** , 2023, 23(4): 1336-1355  <br/>
-<em> *封面文章 </em>
+<em> *封面文章，《中国社会科学文摘》2023年第12期转载 </em>
 
 ### 2022 ###
 
