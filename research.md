@@ -6,7 +6,7 @@ layout: default
 
 ## Working Papers:
 
-**Unveiling Emigration Dynamics: Evidence from a Transnational Genealogy in China**<br/>
+**Unveiling Emigration Dynamics Over Centuries: Evidence from a Transnational Genealogy in China**<br/>
 with Bin Xie, Yibo Zuo  <br/>
 <em> Debut at Chinese Economic History from a Comparative Perspective @ Oxford </em>  <br/>
 
@@ -18,7 +18,7 @@ with Ruichi Xiong, Xiaobo Zhang
 
 **海外宗族网络对本土成员经济福利的影响———来自涉侨族谱的证据** <br/>
 with 左毅博, 龙登高 <br/>
- <em> R&R at </em> **《经济学(季刊)》**
+ <em> Final Review at </em> **《经济学(季刊)》**
  
 **参军经历、退伍政策与创业行为** <br/>
 **陈方豪**<sup>*</sup>, 张晓波 <br/>
