@@ -16,9 +16,9 @@ with 周圣楷, 谢宝剑 <br/>
 **[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
 with Ruichi Xiong, Xiaobo Zhang
 
-**海外宗族网络对本土成员经济福利的影响———来自涉侨族谱的证据** <br/>
+**涉侨宗族网络的经济福利效应———来自涉侨族谱的证据** <br/>
 with 左毅博, 龙登高 <br/>
- <em> Final Review at </em> **《经济学(季刊)》**
+ <em> 拟录用于 </em> **《经济学(季刊)》**
  
 **参军经历、退伍政策与创业行为** <br/>
 **陈方豪**<sup>*</sup>, 张晓波 <br/>
