@@ -6,7 +6,7 @@ layout: default
 
 ## Working Papers:
 
-**Unveiling Emigration Dynamics Over Centuries: Evidence from a Transnational Genealogy in China**<br/>
+**Unveiling Centruries-Long Emigration Dynamics: Evidence from a Transnational Genealogy in China**<br/>
 with Bin Xie, Yibo Zuo  <br/>
 <em> Debut at Chinese Economic History from a Comparative Perspective @ Oxford </em>  <br/>
 
