@@ -78,7 +78,7 @@ with Ruichi Xiong, Zhongchen Fan, Shaoda Wang
 
 ### 2. Development and International Economics ###
 
-**全球华商资产测算**<br/>
+**全球华商网络**<br/>
 with 吴战篪
 
 **Homemade Foreign Partners**<br/>
