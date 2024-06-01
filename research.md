@@ -16,6 +16,9 @@ with Ruichi Xiong, Xiaobo Zhang
  **以“侨智”助力新质生产力发展——涉侨专利的测度、特征与影响** <br/>
 with 周圣楷, 谢宝剑 <br/>
 
+**产业转移还是产业外溢? 中企出海东南亚的产业链分析** <br/>
+with 席金瑞 <br/>
+
 **涉侨宗族网络的经济福利效应———来自涉侨族谱的证据** <br/>
 with 左毅博, 龙登高 <br/>
  <em> 拟录用于 </em> **《经济学(季刊)》**
@@ -75,11 +78,11 @@ with Ruichi Xiong, Zhongchen Fan, Shaoda Wang
 
 ### 2. Development and International Economics ###
 
-**Homemade Foreign Partners**<br/>
-with Mingmei Liu, Ning Qin
+**全球华商资产测算**<br/>
+with 吴战篪
 
-**Chinese OFDI in Southeastern Asia: Industrial Relocation or Industrial Spilovers?** <br/>
-with Jinrui Xi
+**Homemade Foreign Partners**<br/>
+with Mingmei Liu
 
 **From "Made in China" to "Made by Chinese (Firms)"**
 
