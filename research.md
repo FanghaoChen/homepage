@@ -13,6 +13,9 @@ with Bin Xie, Yibo Zuo  <br/>
 **[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
 with Ruichi Xiong, Xiaobo Zhang
 
+**Volume-Based Procurement and Pharmaceutical Innovations** <br/>
+with Yi Lai, Hongqiao Fu
+
  **以“侨智”助力新质生产力发展——涉侨专利的测度、特征与影响** <br/>
 with 周圣楷, 谢宝剑 <br/>
 
@@ -78,17 +81,12 @@ with Ruichi Xiong, Zhongchen Fan, Shaoda Wang
 
 ### 2. Development and International Economics ###
 
-**全球华商网络**<br/>
+**测度与刻画全球华商网络**<br/>
 with 吴战篪
 
 **Homemade Foreign Partners**<br/>
 with Mingmei Liu
 
 **From "Made in China" to "Made by Chinese (Firms)"**
-
-### 3. Business Economics ###
-
-**Volume-Based Procurement and Pharmaceutical Innovations** <br/>
-with Yi Lai, Hongqiao Fu
 
 <!---  comment syntax --->
