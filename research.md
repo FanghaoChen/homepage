@@ -16,6 +16,9 @@ with Ruichi Xiong, Xiaobo Zhang
 **Volume-Based Procurement and Pharmaceutical Innovations** <br/>
 with Yi Lai, Hongqiao Fu
 
+**The Cost of Urban Fragmentation** <br/>
+with Ruichi Xiong, Shan Zhao
+
  **“侨智”与新质生产力发展——涉侨专利的测度、特征与影响** <br/>
 with 周圣楷, 谢宝剑 <br/>
 
@@ -69,9 +72,6 @@ with Zhongchen Fan
 
 **Pricing Agglomerations**  <br/>
 with Yibo Zuo, Shiyu Bo
-
-**Fragmented Cities** <br/>
-with Ruichi Xiong, Shan Zhao
 
 **Technological Advantage vs. Comparative Advantage** <br/>
 with Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
