@@ -9,7 +9,7 @@ layout: default
 **[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
 with Ruichi Xiong, Xiaobo Zhang
 
-**The Invisible Feet:Unveiling Chinese Emigration Dynamics from a Transnational Genealogy in China**<br/>
+**The Invisible Feet: Unveiling Chinese Emigration Dynamics from a Transnational Genealogy in China**<br/>
 with Bin Xie, Yibo Zuo  <br/>
 
 **Urban Fragmentation and Innovation Collaboration: Evidence from China** <br/>
