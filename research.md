@@ -9,7 +9,7 @@ layout: default
 **[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
 with Ruichi Xiong, Xiaobo Zhang
 
-**The Invisible Feet: Unveiling Chinese Emigration Dynamics from a Transnational Genealogy in China**<br/>
+**Unveiling Chinese Emigration Dynamics from a Transnational Genealogy in China**<br/>
 with Bin Xie, Yibo Zuo  <br/>
 
 **Urban Fragmentation and Innovation Collaboration: Evidence from China** <br/>
@@ -28,12 +28,15 @@ with 席金瑞 <br/>
 with 左毅博, 龙登高 <br/>
  <em> 录用待刊于 </em> **《经济学(季刊)》**
  
-**参军经历、退伍政策与创业行为** <br/>
-**陈方豪**<sup>*</sup>, 张晓波 <br/>
- <em> 录用待刊于 </em> **《制度经济学研究》**
- 
 ## Publications:
 
+### 2024 ###
+
+**参军经历、退伍政策与创业行为** <br/>
+**陈方豪**<sup>*</sup>, 张晓波 <br/>
+**《制度经济学研究》**, 2024, 84(2):35-70 <br/>
+<em> *封面文章 </em>
+ 
 ### 2023 ###
 
 **[突破城市发展的边界: 撤县设区与城市内部协同发展](https://kns.cnki.net/kcms2/article/abstract?v=La2KlAOQ31QZ4LHEPRQTy3rMKKKmAzji44UI9zGYtUF7O-Hst4RrHDEbrvmNwcksyy8F1g00KvW27S5d7idZV7A_dXlqbPZQDJp9iV2LvNK1BUfxCDZBPd0Kay9nBRVAvqae6y0tueE=&uniplatform=NZKPT&language=CHS)** <br/>
@@ -69,9 +72,6 @@ with Loren Brandt, Gilles Duranton
 **中国产业集群的分布与转移** <br/>
 with Zhongchen Fan
 
-**Pricing Agglomerations**  <br/>
-with Yibo Zuo, Shiyu Bo
-
 **Technological Advantage vs. Comparative Advantage** <br/>
 with Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
 
@@ -80,8 +80,8 @@ with Ruichi Xiong, Zhongchen Fan, Shaoda Wang
 
 ### 2. Development and International Economics ###
 
-**测度与刻画全球华商网络**<br/>
-with 吴战篪
+**全球华商资产测算**<br/>
+with 吴战篪，杜文馨
 
 **Homemade Foreign Partners**<br/>
 with Mingmei Liu
