@@ -21,9 +21,6 @@ with Yi Lai, Hongqiao Fu
  **“侨智”与新质生产力发展——涉侨专利的测度、特征与影响** <br/>
 with 周圣楷, 谢宝剑 <br/>
 
-**产业转移还是产业外溢? 中企出海东南亚的产业链分析** <br/>
-with 席金瑞 <br/>
-
 **涉侨宗族网络的经济福利效应———来自涉侨族谱的证据** <br/>
 with 左毅博, 龙登高 <br/>
  <em> 录用待刊于 </em> **《经济学(季刊)》**
@@ -85,6 +82,9 @@ with 吴战篪，杜文馨
 
 **Homemade Foreign Partners**<br/>
 with Mingmei Liu
+
+**产业转移还是产业外溢? 中企出海东南亚的产业链分析** <br/>
+with 席金瑞 <br/>
 
 **From "Made in China" to "Made by Chinese (Firms)"**
 
