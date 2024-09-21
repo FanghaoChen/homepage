@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[**HOME**](./index.md) | [CV](./assets/CV_FanghaoChen_231105.pdf) | [RESEARCH](./research.md) | [TEACHING](./teaching.md) | [中文](./chinesepage.md) | [LINKS](./links.md)
+[**HOME**](./index.md) | [CV](./assets/CV_FanghaoChen_240916.pdf) | [RESEARCH](./research.md) | [TEACHING](./teaching.md) | [中文](./chinesepage.md) | [LINKS](./links.md)
 
 Welcome! I'm an Assistant Professor of Economics in the [School of Economics at Jinan University](https://ec.jnu.edu.cn/) and the Associate Director of the [Research Center for the Industrial Development of Guangdong and its Regional Cooperation with Hong Kong, Macau and Taiwan](https://ogo.jnu.edu.cn/). I obtained my PhD. in economics from the [National School of Development at Peking University](https://www.nsd.pku.edu.cn/). I was a visiting scholar at the Department of Ecnomics at University of Toronto.
 
