@@ -21,17 +21,15 @@ with Yi Lai, Hongqiao Fu
  **“侨智”与新质生产力发展——涉侨专利的测度、特征与影响** <br/>
 with 周圣楷, 谢宝剑 <br/>
 
-
- 
 ## Publications:
 
 ### 2024 ###
 
 **涉侨宗族网络的经济福利效应———来自涉侨族谱的证据** <br/>
-with 左毅博, 龙登高 <br/>
-**《经济学(季刊)》***, 2024, 24(5) <br/>
+**陈方豪**<sup>*</sup>, 左毅博, 龙登高 <br/>
+**《经济学(季刊)》**, 2024, 24(5) <br/>
  
-**参军经历、退伍政策与创业行为** <br/>
+**[参军经历、退伍政策与创业行为](https://kns.cnki.net/kcms2/article/abstract?v=IXLqNOIxNnuPuo0uw7xJBBdYQ7JTDqyXvg9PZNboApr7GkSIBzqDtsDeHdZuLSofHhiM_zYUkGe7cBbNwscE16Hr6sQ4w784v_4UvaJLBhXfYaaPucnwxwnZ6ml2ZnavXP2FgjPBm2-MMYZwz0wY0bIT5H1_xd838KNbk-votsWd-nVScaTPSkUBCnOwKAj0&uniplatform=NZKPT&language=CHS)** <br/>
 **陈方豪**<sup>*</sup>, 张晓波 <br/>
 **《制度经济学研究》**, 2024, 84(2):35-70 <br/>
 <em> *封面文章 </em>
