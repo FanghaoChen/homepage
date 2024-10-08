@@ -9,14 +9,11 @@ layout: default
 **[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
 with Ruichi Xiong, Xiaobo Zhang
 
-**Unveiling Chinese Emigration Dynamics from a Transnational Genealogy in China**<br/>
+**Community Beyond Borders: Unveiling Chinese Emigration Dynamics from a Transnational Genealogy**<br/>
 with Bin Xie, Yibo Zuo  <br/>
 
 **Urban Fragmentation and Innovation Collaboration: Evidence from China** <br/>
 with Ruichi Xiong, Shan Zhao
-
-**Volume-Based Procurement and Pharmaceutical Innovations** <br/>
-with Yi Lai, Hongqiao Fu
 
  **“侨智”与新质生产力发展——涉侨专利的测度、特征与影响** <br/>
 with 周圣楷, 谢宝剑 <br/>
@@ -74,6 +71,9 @@ with Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
 
 **Policy Learning in China's Industrial Policies** <br/>
 with Ruichi Xiong, Zhongchen Fan, Shaoda Wang
+
+**Volume-Based Procurement and Pharmaceutical Innovations** <br/>
+with Yi Lai, Hongqiao Fu
 
 ### 2. Development and International Economics ###
 
