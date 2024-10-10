@@ -18,6 +18,9 @@ with Ruichi Xiong, Shan Zhao
  **“侨智”与新质生产力发展——涉侨专利的测度、特征与影响** <br/>
 with 周圣楷, 谢宝剑 <br/>
 
+**产业转移还是产业外溢? 中企出海东南亚的产业链分析** <br/>
+with 席金瑞 <br/>
+
 ## Publications:
 
 ### 2024 ###
@@ -69,7 +72,7 @@ with Zhongchen Fan
 **Technological Advantage vs. Comparative Advantage** <br/>
 with Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
 
-**Policy Learning in China's Industrial Policies** <br/>
+**Multidimensional Industrial Policies** <br/>
 with Ruichi Xiong, Zhongchen Fan, Shaoda Wang
 
 **Volume-Based Procurement and Pharmaceutical Innovations** <br/>
@@ -78,13 +81,10 @@ with Yi Lai, Hongqiao Fu
 ### 2. Development and International Economics ###
 
 **全球华商资产测算**<br/>
-with 吴战篪，杜文馨
+with 吴战篪，杜文馨，周圣楷
 
 **Homemade Foreign Partners**<br/>
 with Mingmei Liu
-
-**产业转移还是产业外溢? 中企出海东南亚的产业链分析** <br/>
-with 席金瑞 <br/>
 
 **From "Made in China" to "Made by Chinese (Firms)"**
 
