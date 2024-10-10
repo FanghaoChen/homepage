@@ -66,9 +66,6 @@ with 席金瑞 <br/>
 **Industrial Development in China** <br/>
 with Loren Brandt, Gilles Duranton
 
-**中国产业集群的分布与转移** <br/>
-with Zhongchen Fan
-
 **Technological Advantage vs. Comparative Advantage** <br/>
 with Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
 
@@ -77,6 +74,9 @@ with Ruichi Xiong, Zhongchen Fan, Shaoda Wang
 
 **Volume-Based Procurement and Pharmaceutical Innovations** <br/>
 with Yi Lai, Hongqiao Fu
+
+**中国产业集群的分布与转移** <br/>
+with Zhongchen Fan
 
 ### 2. Development and International Economics ###
 
