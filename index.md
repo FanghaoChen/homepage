@@ -5,7 +5,7 @@ layout: default
 
 [**HOME**](./index.md) | [CV](./assets/CV_FanghaoChen_240916.pdf) | [RESEARCH](./research.md) | [TEACHING](./teaching.md) | [中文](./chinesepage.md) | [LINKS](./links.md)
 
-Welcome! I'm an Assistant Professor of Economics in the [School of Economics at Jinan University](https://ec.jnu.edu.cn/) and the Associate Director of the [Research Center for the Industrial Development of Guangdong and its Regional Cooperation with Hong Kong, Macau and Taiwan](https://ogo.jnu.edu.cn/). I obtained my PhD. in economics from the [National School of Development at Peking University](https://www.nsd.pku.edu.cn/). I was a visiting scholar at the Department of Ecnomics at University of Toronto.
+Welcome! I'm an Assistant Professor of Economics in the [School of Economics at Jinan University](https://ec.jnu.edu.cn/) and the Associate Director of the [Research Center for the Industrial Development of Guangdong and its Regional Cooperation with Hong Kong, Macau and Taiwan](https://ogo.jnu.edu.cn/). I obtained my PhD. in economics from the [National School of Development at Peking University](https://www.nsd.pku.edu.cn/).
 
 My research fields are the economics of international migration (with focus on Chinese diaspora in particular), the industrial development in China and its relation with China's integration into global economy. Currently, I am interested in topics such as the role of overseas Chinese in connecting China's economy with the world market (for trade, capital, technology...), as well as the relationship between China's industrial policies, industrial upgrading, and the international expansion of Chinese firms.
 
