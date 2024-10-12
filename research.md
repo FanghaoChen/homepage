@@ -7,7 +7,8 @@ layout: default
 ## Working Papers:
 
 **[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
-with Ruichi Xiong, Xiaobo Zhang
+with Ruichi Xiong, Xiaobo Zhang <br/>
+R&R at <em> Journal of International Economics </em>
 
 **Community Beyond Borders: Unveiling Chinese Emigration Dynamics from a Transnational Genealogy**<br/>
 with Bin Xie, Yibo Zuo  <br/>
