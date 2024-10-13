@@ -84,9 +84,6 @@ with Zhongchen Fan
 **全球华商资产测算**<br/>
 with 吴战篪，杜文馨，周圣楷
 
-**Homemade Foreign Partners**<br/>
-with Mingmei Liu
-
 **From "Made in China" to "Made by Chinese (Firms)"**
 
 <!---  comment syntax --->
