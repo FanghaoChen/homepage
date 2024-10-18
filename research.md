@@ -26,9 +26,9 @@ with 席金瑞 <br/>
 
 ### 2024 ###
 
-**涉侨宗族网络的经济福利效应———来自涉侨族谱的证据** <br/>
+**[涉侨宗族网络的经济福利效应———来自涉侨族谱的证据](https://kns.cnki.net/kcms2/article/abstract?v=SY7jeTtuViJMznkgQ-EjaEMYuwccDQ8i1CVYb2JTAUldz2cGn8CmQKWtVXavF4tnpT0oY2Pe0xbDO3PRhPydu7rD4TcL5Fd1ffzXCK2k8c_dDrVUi6cm14eKUp6NFw6Yh50WArh7ImGAaYW0G_nYpmNQebBDWqZlUXZUybbL00i91mKjBBzHfrOHjOoNM480&uniplatform=NZKPT&language=CHS)** <br/>
 **陈方豪**<sup>*</sup>, 左毅博, 龙登高 <br/>
-**《经济学(季刊)》**, 2024, 24(5) <br/>
+**《经济学(季刊)》**, 2024, 24(5):1704-1718 <br/>
  
 **[参军经历、退伍政策与创业行为](https://kns.cnki.net/kcms2/article/abstract?v=IXLqNOIxNnuPuo0uw7xJBBdYQ7JTDqyXvg9PZNboApr7GkSIBzqDtsDeHdZuLSofHhiM_zYUkGe7cBbNwscE16Hr6sQ4w784v_4UvaJLBhXfYaaPucnwxwnZ6ml2ZnavXP2FgjPBm2-MMYZwz0wY0bIT5H1_xd838KNbk-votsWd-nVScaTPSkUBCnOwKAj0&uniplatform=NZKPT&language=CHS)** <br/>
 **陈方豪**<sup>*</sup>, 张晓波 <br/>
