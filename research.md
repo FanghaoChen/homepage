@@ -82,7 +82,7 @@ with Zhongchen Fan
 ### 2. Development and International Economics ###
 
 **全球华商资产测算**<br/>
-with 吴战篪，杜文馨，周圣楷
+with 吴战篪，赵子乐，杜文馨，周圣楷
 
 **From "Made in China" to "Made by Chinese (Firms)"**
 
