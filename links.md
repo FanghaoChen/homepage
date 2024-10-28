@@ -1,10 +1,11 @@
 [HOME](./index.md) | [CV](./assets/CV_FanghaoChen_240916.pdf) | [RESEARCH](./research.md) | [TEACHING](./teaching.md) | [中文](./chinesepage.md) | [**DATA & LINKS**](./links.md)
 
-## Data ##
+# Data #
 
-[Transnational Genealogies Database (By City and Surname) 涉侨族谱分布数据（城市-姓氏层面）](./assets/涉侨族谱分布241028.rar) <br/>
-
-
+[Transnational Genealogies Database (By City and Surname)] <br/>
+涉侨族谱分布数据（城市-姓氏层面）<br/>
+This dataset provides a breakdown of the number of transational genealogies kept by the Jinan University Library at city-surname level. 
+[Download])(./assets/涉侨族谱分布241028.rar)
 
 ## My Research Network ##
 
