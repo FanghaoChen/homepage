@@ -72,7 +72,7 @@ with 席金瑞 <br/>
 with Loren Brandt, Gilles Duranton
 
 **Technological Advantage vs. Comparative Advantage** <br/>
-with Ruichi Xiong, Zhongchen Fan, Mingzhi (Jimmy) Xu
+with Ruichi Xiong, Zhongchen Fan
 
 **Multidimensional Industrial Policies** <br/>
 with Ruichi Xiong, Zhongchen Fan, Shaoda Wang
