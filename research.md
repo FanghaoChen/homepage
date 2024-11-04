@@ -19,7 +19,7 @@ Comparative Perspective, Oxford, 2024 </em>
 with Ruichi Xiong, Shan Zhao <br/>
 Under Review at <em> China Economic Review </em>
 
- **“侨智”与新质生产力发展——涉侨专利的测度、特征与影响** <br/>
+ **“侨智”与中国技术进步：涉侨专利的测度、特征与影响** <br/>
 with 周圣楷, 谢宝剑 <br/>
 
 **产业转移还是产业外溢? 中企出海东南亚的产业链分析** <br/>
