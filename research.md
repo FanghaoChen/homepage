@@ -17,6 +17,7 @@ Comparative Perspective, Oxford, 2024 </em>
 
 **Urban Fragmentation and Innovation Collaboration: Evidence from China** <br/>
 with Ruichi Xiong, Shan Zhao
+Under Review at <em> China Economic Review </em>
 
  **“侨智”与新质生产力发展——涉侨专利的测度、特征与影响** <br/>
 with 周圣楷, 谢宝剑 <br/>
