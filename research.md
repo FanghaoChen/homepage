@@ -16,7 +16,7 @@ with Bin Xie, Yibo Zuo  <br/>
 Comparative Perspective, Oxford, 2024 </em>
 
 **Urban Fragmentation and Innovation Collaboration: Evidence from China** <br/>
-with Ruichi Xiong, Shan Zhao
+with Ruichi Xiong, Shan Zhao <br/>
 Under Review at <em> China Economic Review </em>
 
  **“侨智”与新质生产力发展——涉侨专利的测度、特征与影响** <br/>
