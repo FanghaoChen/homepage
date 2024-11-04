@@ -12,7 +12,7 @@ R&R at <em> Journal of International Economics </em>
 
 **Community Beyond Borders: Unveiling Chinese Emigration Dynamics from a Transnational Genealogy**<br/>
 with Bin Xie, Yibo Zuo  <br/>
-<em> *Recent & Upcoming Presentation: Economic History Society Annual Conference, Glasgow, 2025; Chinese Economic History from a 
+<em> *Upcoming & Recent Events: Economic History Society Annual Conference, Glasgow, 2025; Chinese Economic History from a 
 Comparative Perspective, Oxford, 2024 </em>
 
 **Urban Fragmentation and Innovation Collaboration: Evidence from China** <br/>
