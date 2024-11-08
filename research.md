@@ -19,8 +19,8 @@ Comparative Perspective, Oxford, 2024 </em>
 with Ruichi Xiong, Shan Zhao <br/>
 Under Review at <em> China Economic Review </em>
 
- **“侨智”与中国技术进步：涉侨专利的测度、特征与影响** <br/>
-with 周圣楷, 谢宝剑 <br/>
+ **“侨智”与中国科技创新：涉侨专利的测度、特征与影响** <br/>
+with 周圣楷, 谢宝剑, 吴战篪 <br/>
 
 **产业转移还是产业外溢? 中企出海东南亚的产业链分析** <br/>
 with 席金瑞 <br/>
@@ -77,8 +77,11 @@ with Ruichi Xiong, Zhongchen Fan
 **Multidimensional Industrial Policies** <br/>
 with Ruichi Xiong, Zhongchen Fan, Shaoda Wang
 
-**Volume-Based Procurement and Pharmaceutical Innovations** <br/>
+**Volume-Based Procurement and Chinese Pharmaceutical Industry** <br/>
 with Yi Lai, Hongqiao Fu
+
+**The Evolution of Semiconductor Industry in China** <br/>
+with Yibo Zuo
 
 **中国产业集群的分布与转移** <br/>
 with Zhongchen Fan
