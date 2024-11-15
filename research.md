@@ -71,11 +71,8 @@ with 席金瑞 <br/>
 **Industrial Development in China** <br/>
 with Loren Brandt, Gilles Duranton
 
-**Technological Advantage vs. Comparative Advantage** <br/>
+**Industrial Policies and Competitiveness of Chinese industries** <br/>
 with Ruichi Xiong, Zhongchen Fan
-
-**Multidimensional Industrial Policies** <br/>
-with Ruichi Xiong, Zhongchen Fan, Shaoda Wang
 
 **中国产业集群的分布与转移** <br/>
 with Zhongchen Fan
