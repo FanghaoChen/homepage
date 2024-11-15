@@ -5,7 +5,7 @@ layout: default
 
 [**HOME**](./index.md) | [CV](./assets/CV_FanghaoChen_240916.pdf) | [RESEARCH](./research.md) | [TEACHING](./teaching.md) | [中文](./chinesepage.md) | [DATA & LINKS](./links.md)
 
-Welcome! I'm an Assistant Professor of Economics in the [School of Economics at Jinan University](https://ec.jnu.edu.cn/) and the Associate Director of the [Research Center for the Industrial Development of Guangdong and its Regional Cooperation with Hong Kong, Macau and Taiwan](https://ogo.jnu.edu.cn/). I obtained my PhD. in economics from the [National School of Development at Peking University](https://www.nsd.pku.edu.cn/).
+Welcome! I'm an Assistant Professor of Economics in the [School of Economics at Jinan University](https://ec.jnu.edu.cn/) and the Associate Director of the [Research Center for the Industrial Development of Guangdong and its Regional Cooperation with Hong Kong, Macau and Taiwan](https://ogo.jnu.edu.cn/). I also serve as the academic advisor for the [Jinan University-Birmingham University Joint Institute](https://birmingham.jnu.edu.cn/). I obtained my PhD. in economics from the [National School of Development at Peking University](https://www.nsd.pku.edu.cn/).
 
 My research fields are the economics of international social networks (with particular focus on the role of Chinese diaspora), the industrial development in China and its relation with China's integration into global economy. Currently, I am interested in topics such as the role of overseas Chinese communities in connecting China's economy with the world market (for trade, capital, technology, business norms & practices etc.), as well as the relationship between China's industrial policies, industrial upgrading, and the international expansion of Chinese firms.
 
