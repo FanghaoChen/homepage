@@ -78,7 +78,7 @@ with Ruichi Xiong, Zhongchen Fan
 with Zhongchen Fan
 
 **Volume-Based Procurement and Chinese Pharmaceutical Industry** <br/>
-with Yi Lai, Hongqiao Fu
+with Yi Lai, Zhen Wang, Hongqiao Fu
 
 **The Evolution of Semiconductor Industry in China** <br/>
 with Yibo Zuo
