@@ -81,7 +81,7 @@ with Zhongchen Fan
 with Yi Lai, Zhen Wang, Hongqiao Fu
 
 **The Evolution of Semiconductor Industry in China** <br/>
-with Yibo Zuo
+with Yibo Zuo, Shiyu Bo
 
 ### 2. International Economics ###
 
