@@ -66,7 +66,7 @@ with 席金瑞 <br/>
 
 ## Selected Work in Progress:
 
-### 1. Urban and Industrial Economics ###
+### 1. Industrial Economics ###
 
 **Industrial Development in China** <br/>
 with Loren Brandt, Gilles Duranton
@@ -77,16 +77,16 @@ with Ruichi Xiong, Zhongchen Fan
 **Multidimensional Industrial Policies** <br/>
 with Ruichi Xiong, Zhongchen Fan, Shaoda Wang
 
+**中国产业集群的分布与转移** <br/>
+with Zhongchen Fan
+
 **Volume-Based Procurement and Chinese Pharmaceutical Industry** <br/>
 with Yi Lai, Hongqiao Fu
 
 **The Evolution of Semiconductor Industry in China** <br/>
 with Yibo Zuo
 
-**中国产业集群的分布与转移** <br/>
-with Zhongchen Fan
-
-### 2. Development and International Economics ###
+### 2. International Economics ###
 
 **全球华商资产测算**<br/>
 with 吴战篪，赵子乐，杜文馨，周圣楷
