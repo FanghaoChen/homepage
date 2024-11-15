@@ -71,11 +71,11 @@ with 席金瑞 <br/>
 **Industrial Development in China** <br/>
 with Loren Brandt, Gilles Duranton
 
-**Industrial Policies and Competitiveness of Chinese industries** <br/>
-with Ruichi Xiong, Zhongchen Fan
-
 **中国产业集群的分布与转移** <br/>
 with Zhongchen Fan
+
+**Industrial Policies and Competitiveness of Chinese industries** <br/>
+with Ruichi Xiong, Zhongchen Fan
 
 **Volume-Based Procurement and Chinese Pharmaceutical Industry** <br/>
 with Yi Lai, Zhen Wang, Hongqiao Fu
