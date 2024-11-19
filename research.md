@@ -10,7 +10,7 @@ layout: default
 with Ruichi Xiong, Xiaobo Zhang <br/>
 R&R at <em> Journal of International Economics </em>
 
-**Community Beyond Borders: Unveiling Chinese Emigration Dynamics from a Transnational Genealogy**<br/>
+**Clan Beyond Borders: Unveiling Chinese Emigration Dynamics from a Transnational Genealogy**<br/>
 with Bin Xie, Yibo Zuo  <br/>
 <em> *Upcoming & Recent Events: Economic History Society Annual Conference, Glasgow, 2025; Chinese Economic History from a 
 Comparative Perspective, Oxford, 2024 </em>
@@ -19,7 +19,7 @@ Comparative Perspective, Oxford, 2024 </em>
 with Ruichi Xiong, Shan Zhao <br/>
 Under Review at <em> China Economic Review </em>
 
- **“侨智”与中国科技创新：涉侨专利的测度、特征与影响** <br/>
+ **“侨智”与中国科技创新：涉侨专利的测度、特征与意义** <br/>
 with 周圣楷, 谢宝剑, 吴战篪 <br/>
 
 **产业转移还是产业外溢? 中企出海东南亚的产业链分析** <br/>
