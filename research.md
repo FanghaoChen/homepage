@@ -10,7 +10,7 @@ layout: default
 with Ruichi Xiong, Xiaobo Zhang <br/>
 R&R at <em> Journal of International Economics </em>
 
-**Clan Beyond Borders: Unveiling Chinese Emigration Dynamics from a Transnational Genealogy**<br/>
+**Community Beyond Borders: Unveiling Chinese Emigration Dynamics from a Transnational Genealogy**<br/>
 with Bin Xie, Yibo Zuo  <br/>
 <em> *Upcoming & Recent Events: Economic History Society Annual Conference, Glasgow, 2025; Chinese Economic History from a 
 Comparative Perspective, Oxford, 2024 </em>
