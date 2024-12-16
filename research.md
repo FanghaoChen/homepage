@@ -12,7 +12,7 @@ R&R at <em> Journal of International Economics </em>
 
  **“侨智”与中国科技创新：涉侨专利的测度、特征与意义** <br/>
 with 周圣楷, 谢宝剑, 吴战篪 <br/>
-<em> *广东社科学术年会一等奖 </em>
+<em> *2024 广东社科学术年会一等奖 </em>
 
 **Community Beyond Borders: Unveiling Chinese Emigration Dynamics from a Transnational Genealogy**<br/>
 with Bin Xie, Yibo Zuo  <br/>
