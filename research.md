@@ -14,7 +14,7 @@ R&R at <em> Journal of International Economics </em>
 with 周圣楷, 谢宝剑, 吴战篪 <br/>
 <em> *2024 广东社科学术年会一等奖 </em>
 
-**Community Beyond Borders: Unveiling Chinese Emigration Dynamics from a Transnational Genealogy**<br/>
+**Exploring the Dynamics of Chinese Emigration through Transnational Genealogical Lens**<br/>
 with Bin Xie, Yibo Zuo  <br/>
 <em> *Upcoming & Recent Events: Economic History Society Annual Conference, Glasgow, 2025; Chinese Economic History from a 
 Comparative Perspective, Oxford, 2024 </em>
