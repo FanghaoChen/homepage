@@ -91,7 +91,4 @@ with 吴战篪，赵子乐，杜文馨，周圣楷
 
 **From "Made in China" to "Made by Chinese (Firms)"**
 
-**Homemade FDI** <br/>
-with Mingmei Liu
-
 <!---  comment syntax --->
