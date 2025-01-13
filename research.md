@@ -73,7 +73,7 @@ with 席金瑞 <br/>
 with Loren Brandt, Gilles Duranton
 
 **中国产业集群的分布与转移** <br/>
-with Zhongchen Fan
+with 樊仲琛
 
 **Industrial Policies and Competitiveness of Chinese industries** <br/>
 with Ruichi Xiong, Zhongchen Fan
