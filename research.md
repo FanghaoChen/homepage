@@ -26,9 +26,6 @@ with Bin Xie, Yibo Zuo  <br/>
 <em> *Upcoming & Recent Events: Economic History Society Annual Conference, Glasgow, 2025; Chinese Economic History from a 
 Comparative Perspective, Oxford, 2024 </em>
 
-**产业转移还是产业外溢? 中企出海东南亚的产业链分析** <br/>
-with 席金瑞 <br/>
-
 ## Publications:
 
 ### 2024 ###
@@ -78,13 +75,10 @@ with Loren Brandt, Gilles Duranton
 **中国产业集群的分布与转移** <br/>
 with 樊仲琛
 
-**Industrial Policies and Competitiveness of Chinese industries** <br/>
-with Ruichi Xiong, Zhongchen Fan
-
-**Volume-Based Procurement and Chinese Pharmaceutical Industry** <br/>
+**Pharmaceutical Industry in China** <br/>
 with Yi Lai, Zhen Wang, Hongqiao Fu
 
-**The Evolution of Semiconductor Industry in China** <br/>
+**Semiconductor Industry in China** <br/>
 with Yibo Zuo, Shiyu Bo
 
 ### 2. International Economics ###
