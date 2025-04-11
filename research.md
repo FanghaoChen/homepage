@@ -28,7 +28,7 @@ with Bin Xie, Yibo Zuo  <br/>
 
 ### 2025 ###
 
-**[The Economic Welfare Impacts of Transnational Clan Networks: Evidence from Transnational Clan Genealogies]([https://kns.cnki.net/kcms2/article/abstract?v=SY7jeTtuViJMznkgQ-EjaEMYuwccDQ8i1CVYb2JTAUldz2cGn8CmQKWtVXavF4tnpT0oY2Pe0xbDO3PRhPydu7rD4TcL5Fd1ffzXCK2k8c_dDrVUi6cm14eKUp6NFw6Yh50WArh7ImGAaYW0G_nYpmNQebBDWqZlUXZUybbL00i91mKjBBzHfrOHjOoNM480&uniplatform=NZKPT&language=CHS](https://www.sciencedirect.com/science/article/pii/S2666933125000024))** <br/>
+**[The Economic Welfare Impacts of Transnational Clan Networks: Evidence from Transnational Clan Genealogies](https://www.sciencedirect.com/science/article/pii/S2666933125000024)** <br/>
 **Fanghao Chen**<sup>*</sup>, Yibo Zuo, Denggao Long <br/>
 ** China Economic Quarterly International **, 2025, 5(1):46-56 <br/>
 **Invited for submission as a sister version of 陈方豪、左毅博，龙登高（2024）**
