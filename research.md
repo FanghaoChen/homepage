@@ -15,7 +15,7 @@ with Ruichi Xiong, Shan Zhao <br/>
 R&R at <em> China Economic Review </em>
 
 **全球华商资产估算、分布格局与发展规律**<br/>
-with 吴战篪，赵子乐，杜文馨，周圣楷
+with 吴战篪，赵子乐，杜文馨，周圣楷 <br/>
 返修于 at <em> 华侨华人历史研究 </em>
 
  **“侨智”与中国科技创新：涉侨专利的测度、特征与意义** <br/>
