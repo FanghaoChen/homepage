@@ -14,12 +14,13 @@ R&R at <em> Journal of International Economics </em>
 with Ruichi Xiong, Shan Zhao <br/>
 R&R at <em> China Economic Review </em>
 
+**全球华商资产估算、分布格局与发展规律**<br/>
+with 吴战篪，赵子乐，杜文馨，周圣楷
+返修于 at <em> 华侨华人历史研究 </em>
+
  **“侨智”与中国科技创新：涉侨专利的测度、特征与意义** <br/>
 with 周圣楷, 谢宝剑, 吴战篪 <br/>
 <em> *2024 广东社科学术年会一等奖 </em>
-
-**全球华商资产分布格局与发展规律**<br/>
-with 吴战篪，赵子乐，杜文馨，周圣楷
 
 **Exploring the Dynamics of Chinese Emigration through Transnational Genealogical Lens**<br/>
 with Bin Xie, Yibo Zuo  <br/>
