@@ -14,10 +14,6 @@ R&R at <em> Journal of International Economics </em>
 with Ruichi Xiong, Shan Zhao <br/>
 R&R at <em> China Economic Review </em>
 
-**海外华商资产估算、分布格局与发展规律**<br/>
-with 吴战篪，赵子乐，杜文馨，周圣楷 <br/>
-返修于 <em> 《华侨华人历史研究》</em>
-
 **Exploring the Dynamics of Chinese Emigration through Transnational Genealogical Lens**<br/>
 with Bin Xie, Yibo Zuo  <br/>
 
@@ -28,6 +24,10 @@ with 周圣楷, 谢宝剑, 吴战篪 <br/>
 ## Publications:
 
 ### 2025 ###
+
+**海外华商资产分布格局与发展规律**<br/>
+with 吴战篪，赵子乐，杜文馨，周圣楷 <br/>
+待刊于 <em> 《华侨华人历史研究》</em>
 
 **[The Economic Welfare Impacts of Transnational Clan Networks: Evidence from Transnational Clan Genealogies](https://www.sciencedirect.com/science/article/pii/S2666933125000024)** <br/>
 **Fanghao Chen**<sup>*</sup>, Yibo Zuo, Denggao Long <br/>
