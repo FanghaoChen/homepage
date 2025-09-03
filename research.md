@@ -25,9 +25,9 @@ with 周圣楷, 谢宝剑, 吴战篪 <br/>
 with 吴战篪，赵子乐，杜文馨，周圣楷 <br/>
 待刊于 <em> 《华侨华人历史研究》</em>
 
-**Urban Fragmentation and Innovation Collaboration: Evidence from China** <br/>
+**[Urban Fragmentation and Innovation Collaboration: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X25001968?dgcid=author)** <br/>
 with Ruichi Xiong, Shan Zhao <br/>
-Accepted by <em> China Economic Review </em>
+<em> **China Economic Review** </em>, 2025, 94, 102538 <br/>
 
 **[The Economic Welfare Impacts of Transnational Clan Networks: Evidence from Transnational Clan Genealogies](https://www.sciencedirect.com/science/article/pii/S2666933125000024)** <br/>
 **Fanghao Chen**<sup>*</sup>, Yibo Zuo, Denggao Long <br/>
@@ -75,7 +75,7 @@ Accepted by <em> China Economic Review </em>
 
 ### 1. Industrial Economics ###
 
-**Industrial Development in China** <br/>
+**Input-Output Linkages and Industrial Development in China** <br/>
 with Loren Brandt, Gilles Duranton
 
 **中国产业集群的分布与转移** <br/>
