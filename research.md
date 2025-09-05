@@ -75,8 +75,8 @@ with Ruichi Xiong, Shan Zhao <br/>
 **Input-Output Linkages and Industrial Development in China** <br/>
 with Loren Brandt, Gilles Duranton
 
-**中国产业集群的分布与转移** <br/>
-with 樊仲琛
+**Dynamics of Industrial Clusters** <br/>
+with Zhongchen Fan
 
 **The Globalization of Chinese Supply Chains: From "Made in China" to "Made by Chinese"**
 
