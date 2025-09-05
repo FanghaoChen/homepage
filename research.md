@@ -72,15 +72,11 @@ with Ruichi Xiong, Shan Zhao <br/>
 
 ## Selected Work in Progress:
 
-### 1. Industrial Economics ###
-
 **Input-Output Linkages and Industrial Development in China** <br/>
 with Loren Brandt, Gilles Duranton
 
 **中国产业集群的分布与转移** <br/>
 with 樊仲琛
-
-### 2. International Economics ###
 
 **From "Made in China" to "Made by Chinese (Firms)"**
 
