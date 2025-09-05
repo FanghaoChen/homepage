@@ -22,7 +22,7 @@ with 周圣楷, 谢宝剑, 吴战篪 <br/>
 ### 2025 ###
 
 **[海外华商资产分布格局与发展规律——以 ORBIS 全球企业为主的分析](https://kns.cnki.net/kcms2/article/abstract?v=J4uTGPHNJK3n7ZgkzSLQjVCUZ5j2EcWcsGSWydkwT7GrawI4zzAi8dpb_t-Cp4Rtay3MMZsEW30lal6XIclaEBDr8ef42f24xaDP71w5sweZMUvKq0qVcW_DUPQRTIu7ctb4FYzJeqFj3CoyPn7mM5Y_59-zHkdzZACxhXKO2xWtKbglUHyHiQ==&uniplatform=NZKPT&language=CHS)**<br/>
-陈方豪，吴战篪，赵子乐，杜文馨，周圣楷 <br/>
+**陈方豪**<sup>*</sup>，吴战篪，赵子乐，杜文馨，周圣楷 <br/>
 **《华侨华人历史研究》**, 2025, 3:66-76 <br/>
 
 **[Urban Fragmentation and Innovation Collaboration: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X25001968?dgcid=author)** <br/>
