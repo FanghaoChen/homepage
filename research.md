@@ -21,9 +21,9 @@ with 周圣楷, 谢宝剑, 吴战篪 <br/>
 
 ### 2025 ###
 
-**海外华商资产分布格局与发展规律**<br/>
+**海外华商资产分布格局与发展规律——以 ORBIS 全球企业为主的分析**<br/>
 with 吴战篪，赵子乐，杜文馨，周圣楷 <br/>
-待刊于 <em> 《华侨华人历史研究》</em>
+**《华侨华人历史研究》**, 2025, 3:66-76 <br/>
 
 **[Urban Fragmentation and Innovation Collaboration: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X25001968?dgcid=author)** <br/>
 with Ruichi Xiong, Shan Zhao <br/>
@@ -32,7 +32,6 @@ with Ruichi Xiong, Shan Zhao <br/>
 **[The Economic Welfare Impacts of Transnational Clan Networks: Evidence from Transnational Clan Genealogies](https://www.sciencedirect.com/science/article/pii/S2666933125000024)** <br/>
 **Fanghao Chen**<sup>*</sup>, Yibo Zuo, Denggao Long <br/>
  <em> **China Economic Quarterly International** </em>, 2025, 5(1):46-56 <br/>
-<em> *invited for submission as a sister version of 陈方豪, 左毅博, 龙登高（2024）</em>
 
 ### 2024 ###
 
@@ -80,12 +79,6 @@ with Loren Brandt, Gilles Duranton
 
 **中国产业集群的分布与转移** <br/>
 with 樊仲琛
-
-**Pharmaceutical Industry in China** <br/>
-with Yi Lai, Zhen Wang, Hongqiao Fu
-
-**Semiconductor Industry in China** <br/>
-with Yibo Zuo, Shiyu Bo
 
 ### 2. International Economics ###
 
