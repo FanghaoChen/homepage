@@ -13,8 +13,9 @@ R&R at <em> Journal of International Economics </em>
 **Exploring the Dynamics of Chinese Emigration through Transnational Genealogical Lens**<br/>
 with Bin Xie, Yibo Zuo  <br/>
 
- **“侨智”与中国科技创新：涉侨专利的测度、特征与意义** <br/>
+ **族裔网络、贸易摩擦与知识侨汇** <br/>
 with 周圣楷, 谢宝剑, 吴战篪 <br/>
+*previously circulated as <em> 《"侨智"与中国科技创新》 </em> <br/>
 <em> *2024 广东社科学术年会一等奖 </em>
 
 ## Publications:
