@@ -44,7 +44,6 @@ with Ruichi Xiong, Shan Zhao <br/>
 **[参军经历、退伍政策与创业行为](https://kns.cnki.net/kcms2/article/abstract?v=IXLqNOIxNnuPuo0uw7xJBBdYQ7JTDqyXvg9PZNboApr7GkSIBzqDtsDeHdZuLSofHhiM_zYUkGe7cBbNwscE16Hr6sQ4w784v_4UvaJLBhXfYaaPucnwxwnZ6ml2ZnavXP2FgjPBm2-MMYZwz0wY0bIT5H1_xd838KNbk-votsWd-nVScaTPSkUBCnOwKAj0&uniplatform=NZKPT&language=CHS)** <br/>
 **陈方豪**<sup>*</sup>, 张晓波 <br/>
 **《制度经济学研究》**, 2024, 84(2):35-70 <br/>
-<em> *封面文章，入选北京大学光华思想力智库简报 </em>
  
 ### 2023 ###
 
@@ -73,7 +72,7 @@ with Ruichi Xiong, Shan Zhao <br/>
 
 ## Selected Work in Progress:
 
-**Input-Output Linkages and Industrial Development in China** <br/>
+**Industrial Development and Input-Output Linkages: Evidence from China** <br/>
 with Loren Brandt, Gilles Duranton
 
 **Spatial Dynamics of Industrial Clusters** <br/>
