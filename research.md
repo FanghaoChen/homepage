@@ -78,6 +78,6 @@ with Loren Brandt, Gilles Duranton
 **Spatial Dynamics of Industrial Clusters** <br/>
 with Zhongchen Fan
 
-**The Globalization of Chinese Supply Chains: From "Made in China" to "Made by Chinese"**
+**Supply Chain Restructuring in Response to U.S-China Trade Shock**
 
 <!---  comment syntax --->
