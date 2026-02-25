@@ -12,6 +12,7 @@ R&R at <em> Journal of International Economics </em>
 
 **Exploring the Dynamics of Chinese Emigration through Transnational Genealogical Lens**<br/>
 with Bin Xie, Yibo Zuo  <br/>
+<em> *2025 第九届量化历史研究最佳论文奖 二等奖 </em>
 
  **族裔网络、贸易摩擦与知识侨汇** <br/>
 with 周圣楷, 谢宝剑, 吴战篪 <br/>
