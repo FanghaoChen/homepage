@@ -9,5 +9,3 @@ Welcome! I'm an Assistant Professor in the [School of Management](https://ms.jnu
 
 My research focuses on the economics of ethnic networks, particularly overseas Chinese networks as intermediaries in trade, capital, technology, and knowledge flows between China and the global economy. I study their historical formation, long-run persistence, and evolving roles in supporting China’s industrial upgrading and Chinese firms’ international expansion under changing geopolitical environments.
 
-For more information, please refer to my [CV](./assets/CV_FanghaoChen_260315.pdf).
-
