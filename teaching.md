@@ -2,9 +2,10 @@
 
 # 2025年春季学期
 
-**投资学（本科生)**  <br/>
+[**投资学（本科生)](https://my.feishu.cn/wiki/ScLIwwHIDikI68kNJMgc0xVon9t)**  <br/>
 
-**公司财务（本科生)**  <br/>
+
+[**公司财务（本科生)](https://my.feishu.cn/wiki/ANTiwy2QviW4Z2kyeIUc4CAunLc)**  <br/>
 
 ---
 
