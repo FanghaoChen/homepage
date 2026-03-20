@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[**HOME**](./index.md) | [CV](./assets/CV_260315.pdf) | [RESEARCH](./research.md) | [TEACHING](./teaching.md) | [中文](./chinesepage.md) | [DATA & LINKS](./links.md)
+[**HOME**](./index.md) | [CV](./assets/cv_fhchen.pdf) | [RESEARCH](./research.md) | [TEACHING](./teaching.md) | [中文](./chinesepage.md) | [DATA & LINKS](./links.md)
 
 Welcome! I'm an Assistant Professor in the [School of Management](https://ms.jnu.edu.cn/) at [Jinan University](https://www.jnu.edu.cn/main.htm) and the Research Associate of the Research Center for the Industrial Development of Guangdong and its Regional Cooperation with Hong Kong, Macau and Taiwan. I obtained my PhD. in economics from the [National School of Development at Peking University](https://www.nsd.pku.edu.cn/).
 
