@@ -22,8 +22,8 @@ Fanghao Chen, Ruichi Xiong, Xiaobo Zhang. Familiar Strangers: The Role of Diaspo
 
 ---
 
-### Transnational Genealogies Database (By City and Surname) ###
-涉侨族谱分布数据（城市—姓氏层面）
+### Transnational Genealogies Database  ###
+涉侨族谱地理分布数据
 
 This dataset records the city–surname distribution of transnational genealogies preserved in the [Jinan University Library](https://lib.jnu.edu.cn/). Each observation indicates how many genealogical volumes are held for a given Chinese surname in a given city, capturing the historical geographic footprint of overseas-Chinese clan networks. The data can be used to study diaspora networks, migration history, and their long-run economic effects.
 
