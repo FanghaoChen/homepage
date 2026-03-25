@@ -11,9 +11,9 @@ All datasets shared on this page are freely available for academic use. Please c
 ### Chinese Character–English Spelling Two-way Crosswalk for Chinese Surnames ###
 华人姓氏中英文双向对照数据库
 
-A comprehensive crosswalk between Chinese surname characters and their English spellings across multiple transliteration systems and dialect groups, designed to facilitate cross-language record linkage in migration and diaspora studies.
+A comprehensive probalistic two-way crosswalk between Chinese surname characters and their English spellings across multiple transliteration systems and dialect groups, designed to facilitate cross-language record linkage in migration and diaspora studies.
 
-本数据库提供华人姓氏汉字与多种拼写体系及方言音译之间的双向对照，旨在为华人移民研究中的跨语言数据匹配提供基础工具。
+本数据库提供华人姓氏汉字与多种拼写体系及方言音译之间的双向概率对照，旨在为华人移民研究中的跨语言数据匹配提供基础工具。
 
 **Coming soon. / 即将发布。**
 
