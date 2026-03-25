@@ -8,7 +8,7 @@ All datasets shared on this page are freely available for academic use. Please c
 
 ---
 
-### Chinese Character–English Spelling Two-way Crosswalk ###
+### Chinese Character–English Spelling Two-way Crosswalk for Chinese Surnames ###
 华人姓氏中英文双向对照数据库
 
 A comprehensive crosswalk between Chinese surname characters and their English spellings across multiple transliteration systems and dialect groups, designed to facilitate cross-language record linkage in migration and diaspora studies.
