@@ -27,7 +27,7 @@ Fanghao Chen, Ruichi Xiong, Xiaobo Zhang. Familiar Strangers: The Role of Diaspo
 
 This dataset records the city–surname distribution of transnational genealogies preserved in the [Jinan University Library](https://lib.jnu.edu.cn/). Each observation indicates how many genealogical volumes are held for a given Chinese surname in a given city, capturing the historical geographic footprint of overseas-Chinese clan networks. The data can be used to study diaspora networks, migration history, and their long-run economic effects.
 
-本数据集记录了[暨南大学图书馆](https://lib.jnu.edu.cn/)馆藏涉侨族谱在城市—姓氏层面的分布情况。每条观测值反映某一城市中某一姓氏所对应的族谱卷数，刻画了海外华人宗族网络的历史地理分布特征。该数据可用于侨资网络、移��史及其长期经济效应等方面的研究。
+本数据集记录了[暨南大学图书馆](https://lib.jnu.edu.cn/)馆藏涉侨族谱在城市—姓氏层面的分布情况。每条观测值反映某一城市中某一姓氏所对应的族谱卷数，刻画了海外华人宗族网络的历史地理分布特征。该数据可用于华人网络、移民史及其长期经济效应等方面的研究。
 
 [[Download / 下载](./assets/涉侨族谱分布241028.rar)]
 
