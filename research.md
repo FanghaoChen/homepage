@@ -6,13 +6,14 @@ layout: default
 
 ## Working Papers:
 
-**[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
+**[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://github.com/FanghaoChen/familiar_strangers/blob/main/Draft/familiar_strangers_draft_260329.pdf)** <br/>
 with Ruichi Xiong, Xiaobo Zhang <br/>
-conditionally accepted by <em> Journal of International Economics </em>
+conditionally accepted by <em> Journal of International Economics </em> <br/>
+[[Slides]](https://github.com/FanghaoChen/familiar_strangers/blob/main/Slides/260402-JNU.pdf)
 
 **Exploring the Dynamics of Chinese Emigration through Transnational Genealogical Lens**<br/>
 with Bin Xie, Yibo Zuo  <br/>
-<em> *2025 第九届量化历史研究最佳论文奖 二等奖 </em>
+<em> *2025 第九届量化历史研究最佳论文奖 二��奖 </em>
 
  **族裔网络、贸易摩擦与知识侨汇** <br/>
 with 周圣楷, 谢宝剑, 吴战篪 <br/>
@@ -65,7 +66,7 @@ with Ruichi Xiong, Shan Zhao <br/>
 **[以侨为桥：侨资企业与中国的外向型发展](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44wp2hFvIb_znleNvEqg4RtCv9vPRf2sA-jdv978489j6hLoFZlwBqHsT6Mr6DFMMps2en_HrmWTJths_yH02b1&uniplatform=NZKPT)** <br/>
 **陈方豪**<sup>*</sup>，熊瑞驰 <br/>
 **《中国经济学》** , 2022, 1: 118-158 <br/>
-<em> *创刊号、社会科学文献出版社“优秀新创集刊” (2022) </em>
+<em> *创刊号、社会科学文献出版社"优秀新创集刊" (2022) </em>
 
 ### 2017 ###
 
