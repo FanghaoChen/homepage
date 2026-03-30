@@ -83,6 +83,10 @@ with Loren Brandt, Gilles Duranton
 **Spatial Dynamics of Industrial Clusters** <br/>
 with Zhongchen Fan
 
-**Supply Chain Restructuring in Response to U.S-China Trade Shock**
+**Decoupling or Rerouting: Dissecting U.S.-China Supply Chains**
+with Yibuo Zuo, Wenjing Li
+
+**The Diffusion of Industrial Policies in Semiconductor Industry**
+with Yibuo Zuo
 
 <!---  comment syntax --->
