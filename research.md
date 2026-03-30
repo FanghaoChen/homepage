@@ -83,7 +83,7 @@ with Loren Brandt, Gilles Duranton
 **Spatial Dynamics of Industrial Clusters** <br/>
 with Zhongchen Fan
 
-**Decoupling or Rerouting: Dissecting U.S.-China Supply Chains** <br/>
+**Decoupling or Rerouting: Dissecting U.S.-China Trade Linkages** <br/>
 with Yibuo Zuo, Wenjing Li
 
 **Global Diffusion of Industrial Policies for Semiconductor Industry** <br/>
