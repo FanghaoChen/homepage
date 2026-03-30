@@ -86,7 +86,7 @@ with Zhongchen Fan
 **Decoupling or Rerouting: Dissecting U.S.-China Supply Chains** <br/>
 with Yibuo Zuo, Wenjing Li
 
-**Diffusion of Industrial Policies in Semiconductor Industry** <br/>
+**Global Diffusion of Industrial Policies for Semiconductor Industry** <br/>
 with Yibuo Zuo
 
 <!---  comment syntax --->
