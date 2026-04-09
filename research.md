@@ -89,7 +89,7 @@ with Yibuo Zuo, Wenjing Li
 **Global Diffusion of Industrial Policies for Semiconductor Industry** <br/>
 with Yibuo Zuo, Shiyu Bo
 
-**Fund and Fire: Sun Yat-sen and His Transnational Revolt** <br/>
+**Fund and Fire: Sun Yat-sen and Revolutionary Diaspora** <br/>
 with Yuchen Xu, Zhanchi Wu, Yibuo Zuo
 
 <!---  comment syntax --->
