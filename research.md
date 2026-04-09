@@ -77,7 +77,7 @@ with Ruichi Xiong, Shan Zhao <br/>
 
 ## Selected Work in Progress:
 
-**Industrial Development and Input-Output Linkages: Evidence from China** <br/>
+**Input-Output Linkages and Industrial Development: Evidence from China** <br/>
 with Loren Brandt, Gilles Duranton
 
 **Spatial Dynamics of Industrial Clusters** <br/>
