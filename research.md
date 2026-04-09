@@ -83,10 +83,13 @@ with Loren Brandt, Gilles Duranton
 **Spatial Dynamics of Industrial Clusters** <br/>
 with Zhongchen Fan
 
-**Dissecting U.S.-China Trade Linkages** <br/>
+**Detoured Supply Chains** <br/>
 with Yibuo Zuo, Wenjing Li
 
 **Global Diffusion of Industrial Policies for Semiconductor Industry** <br/>
 with Yibuo Zuo
+
+**Fund and Fire: Sun Yat-Sen and His Transnational Revolt** <br/>
+with Yuchen Xu, Zhanchi Wu, Yibuo Zuo
 
 <!---  comment syntax --->
