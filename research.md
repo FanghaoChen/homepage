@@ -14,9 +14,9 @@ conditionally accepted by <em> Journal of International Economics </em> <br/>
 with Bin Xie, Yibo Zuo  <br/>
 <em> *2025 第九届量化历史研究最佳论文奖 二等奖 </em>
 
- **族裔网络、贸易摩擦与知识侨汇** <br/>
-with 周圣楷, 谢宝剑, 吴战篪 <br/>
-*previously circulated as <em> 《"侨智"与中国科技创新》 </em> <br/>
+**Technological Remittance: Diaspora Inventors and China's Innovation （Under substantial revision）** <br/>
+with Shengkai Zhou, Baojian Xie, Zhanchi Wu <br/>
+*previously circulated as <em> 《"侨智"与中国科技创新》、《族裔网络、贸易摩擦与知识侨汇》 </em> <br/>
 <em> *2024 广东社科学术年会一等奖 </em>
 
 ---
