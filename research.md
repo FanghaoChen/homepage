@@ -10,7 +10,7 @@ layout: default
 with Ruichi Xiong, Xiaobo Zhang <br/>
 conditionally accepted by <em> Journal of International Economics </em> <br/>
 
-**Exploring the Dynamics of Chinese Emigration through Transnational Genealogical Lens**<br/>
+**Exploring the Dynamics of Chinese Overseas Migration through Transnational Genealogical Lens**<br/>
 with Bin Xie, Yibo Zuo  <br/>
 <em> *2025 第九届量化历史研究最佳论文奖 二等奖 </em>
 
