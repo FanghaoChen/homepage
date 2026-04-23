@@ -83,7 +83,7 @@ with Loren Brandt, Gilles Duranton
 **Spatial Dynamics of Industrial Clusters** <br/>
 with Zhongchen Fan
 
-**Detoured Supply Chains** <br/>
+**Rerouted Supply Chains** <br/>
 with Yibuo Zuo, Wenjing Li
 
 **Global Diffusion of Industrial Policies for Semiconductor Industry** <br/>
