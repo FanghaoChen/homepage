@@ -15,7 +15,7 @@ A comprehensive probabilistic two-way crosswalk between Chinese surname characte
 
 本数据库提供华人姓氏汉字与多种拼写体系及方言音译之间的英文双向概率对照，旨在为华人移民研究中的跨语言数据匹配提供基础工具。
 
-**Coming soon. / 即将发布。**
+[[Download / 下载](./assets/EngSur2ChnSur-mapping.zip)]
 
 **Citation / 引用：** <br/>
 Fanghao Chen, Ruichi Xiong, Xiaobo Zhang. Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development. _Journal of International Economics_, forthcoming. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)]
