@@ -91,6 +91,6 @@ with Loren Brandt, Gilles Duranton
 with Zhongchen Fan
 
 **Fund and Fire: Sun Yat-sen and Revolutionary Diaspora** <br/>
-with Yuchen Xu, Zhanchi Wu, Yibuo Zuo
+with Yuchen Xu, Zhanchi Wu, Jiancheng He
 
 <!---  comment syntax --->
