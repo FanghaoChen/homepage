@@ -82,14 +82,13 @@ with Ruichi Xiong, Shan Zhao <br/>
 
 ## Selected Work in Progress:
 
+**Tides of Openness: China’s Policy Journey** <br/>
+
 **Input-Output Linkages and Industrial Development: Evidence from China** <br/>
 with Loren Brandt, Gilles Duranton
 
 **Spatial Dynamics of Industrial Clusters** <br/>
 with Zhongchen Fan
-
-**Global Diffusion of Industrial Policies for Semiconductor Industry** <br/>
-with Yibuo Zuo, Shiyu Bo
 
 **Fund and Fire: Sun Yat-sen and Revolutionary Diaspora** <br/>
 with Yuchen Xu, Zhanchi Wu, Yibuo Zuo
