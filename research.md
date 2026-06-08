@@ -6,6 +6,9 @@ layout: default
 
 ## Working Papers:
 
+**Rerouted Supply Chains** <br/>
+with Yibuo Zuo, Wenjing Li, Zhihang Zhou
+
 **Exploring the Dynamics of Chinese Overseas Migration through Transnational Genealogical Lens**<br/>
 with Bin Xie, Yibo Zuo  <br/>
 <em> *2025 第九届量化历史研究最佳论文奖 二等奖 </em>
@@ -84,9 +87,6 @@ with Loren Brandt, Gilles Duranton
 
 **Spatial Dynamics of Industrial Clusters** <br/>
 with Zhongchen Fan
-
-**Rerouted Supply Chains** <br/>
-with Yibuo Zuo, Wenjing Li
 
 **Global Diffusion of Industrial Policies for Semiconductor Industry** <br/>
 with Yibuo Zuo, Shiyu Bo
