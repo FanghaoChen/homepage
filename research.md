@@ -6,10 +6,6 @@ layout: default
 
 ## Working Papers:
 
-**[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)** <br/>
-with Ruichi Xiong, Xiaobo Zhang <br/>
-<em> Journal of International Economics </em>, forthcoming <br/>
-
 **Exploring the Dynamics of Chinese Overseas Migration through Transnational Genealogical Lens**<br/>
 with Bin Xie, Yibo Zuo  <br/>
 <em> *2025 第九届量化历史研究最佳论文奖 二等奖 </em>
@@ -22,6 +18,12 @@ with Shengkai Zhou, Baojian Xie, Zhanchi Wu <br/>
 ---
 
 ## Publications:
+
+### 2026 ###
+
+**[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://www.sciencedirect.com/science/article/abs/pii/S0022199626000838)** <br/>
+with Ruichi Xiong, Xiaobo Zhang <br/>
+<em> Journal of International Economics </em>, forthcoming <br/>
 
 ### 2025 ###
 
