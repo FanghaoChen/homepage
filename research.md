@@ -6,9 +6,6 @@ layout: default
 
 ## Working Papers:
 
-**Rerouted Supply Chains** <br/>
-with Yibuo Zuo, Wenjing Li, Zhihang Zhou
-
 **Exploring the Dynamics of Chinese Overseas Migration through Transnational Genealogical Lens**<br/>
 with Bin Xie, Yibo Zuo  <br/>
 <em> *2025 第九届量化历史研究最佳论文奖 二等奖 </em>
@@ -26,7 +23,7 @@ with Shengkai Zhou, Baojian Xie, Zhanchi Wu <br/>
 
 **[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://www.sciencedirect.com/science/article/abs/pii/S0022199626000838)** <br/>
 with Ruichi Xiong, Xiaobo Zhang <br/>
-<em> Journal of International Economics </em>, forthcoming <br/>
+<em> **Journal of International Economics** </em>, 2026, 162, 104293 <br/>
 
 ### 2025 ###
 
@@ -81,6 +78,9 @@ with Ruichi Xiong, Shan Zhao <br/>
 ---
 
 ## Selected Work in Progress:
+
+**Rerouted Supply Chains** <br/>
+with Yibuo Zuo, Wenjing Li, Zhihang Zhou
 
 **Tides of Openness: China’s Policy Journey** <br/>
 
