@@ -1,4 +1,4 @@
-[HOME](./index.md) | [CV](./assets/cv_fhchen.pdf) | [RESEARCH](./research.md) | [TEACHING](./teaching.md) | [中文](./chinesepage.md) | [**DATA & LINKS**](./links.md)
+[HOME](./index.md) | [CV](./assets/FanghaoChen_CV_260621.pdf) | [RESEARCH](./research.md) | [TEACHING](./teaching.md) | [中文](./chinesepage.md) | [**DATA & LINKS**](./links.md)
 
 # Data #
 

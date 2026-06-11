@@ -1,10 +1,10 @@
-[HOME](./index.md) | [CV](./assets/cv_fhchen.pdf) | [RESEARCH](./research.md) | [TEACHING](./teaching.md) | [**中文**](./chinesepage.md) | [DATA & LINKS](./links.md)
+[HOME](./index.md) | [CV](./assets/FanghaoChen_CV_260621.pdf) | [RESEARCH](./research.md) | [TEACHING](./teaching.md) | [**中文**](./chinesepage.md) | [DATA & LINKS](./links.md)
 
 # 陈方豪
 
 [暨南大学管理学院](https://ms.jnu.edu.cn/)助理教授，广东产业发展与粤港澳台区域合作研究中心研究员，[北京大学国家发展研究院](https://nsd.pku.edu.cn/)经济学博士；我的研究方向为族群网络经济学，重点关注海外华人网络在贸易、资本、技术与知识流动中，作为连接中国与全球市场的中介作用。当前研究聚焦于海外华人社群的历史形成、跨国网络的长期演化与持续机制，及其在地缘政治格局变动背景下，对中国产业升级与企业国际化发展的影响。
 
-更多关于我的信息，可以参见我的[中文简历](./assets/陈方豪_暨大管院.pdf)。
+更多关于我的信息，可以参见我的[中文简历](./assets/陈方豪_暨大管院_260621.pdf)。
 
 ---
 
