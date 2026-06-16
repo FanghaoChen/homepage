@@ -82,7 +82,8 @@ with Ruichi Xiong, Shan Zhao <br/>
 **Rerouted Supply Chains** <br/>
 with Yibuo Zuo, Wenjing Li, Zhihang Zhou
 
-**Tides of Openness: China’s Policy Journey** <br/>
+**Fund and Fire: Sun Yat-sen and Revolutionary Diaspora** <br/>
+with Yuchen Xu, Zhanchi Wu, Jiancheng He
 
 **Input-Output Linkages and Industrial Development: Evidence from China** <br/>
 with Loren Brandt, Gilles Duranton
@@ -90,7 +91,6 @@ with Loren Brandt, Gilles Duranton
 **Spatial Dynamics of Industrial Clusters** <br/>
 with Zhongchen Fan
 
-**Fund and Fire: Sun Yat-sen and Revolutionary Diaspora** <br/>
-with Yuchen Xu, Zhanchi Wu, Jiancheng He
+**Tides of Openness: China’s Policy Journey** <br/>
 
 <!---  comment syntax --->
