@@ -18,7 +18,7 @@ A comprehensive probabilistic two-way crosswalk between Chinese surname characte
 [[Download / 下载](./assets/EngSur2ChnSur-mapping.zip)]
 
 **Citation / 引用：** <br/>
-Fanghao Chen, Ruichi Xiong, Xiaobo Zhang. Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development. _Journal of International Economics_, forthcoming. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0022199626000838)]
+Fanghao Chen, Ruichi Xiong, Xiaobo Zhang. Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development. _Journal of International Economics_, 162, 104293. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0022199626000838)]
 
 ---
 
