@@ -22,7 +22,7 @@ with Shengkai Zhou, Baojian Xie, Zhanchi Wu <br/>
 ### 2026 ###
 
 **[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://www.sciencedirect.com/science/article/abs/pii/S0022199626000838)** <br/>
-with Ruichi Xiong, Xiaobo Zhang <br/>
+**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Xiaobo Zhang <br/>
 <em> **Journal of International Economics** </em>, 2026, 162, 104293 <br/>
 
 ### 2025 ###
@@ -32,7 +32,7 @@ with Ruichi Xiong, Xiaobo Zhang <br/>
 **《华侨华人历史研究》**, 2025, 3:66-76 <br/>
 
 **[Urban Fragmentation and Innovation Collaboration: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X25001968?dgcid=author)** <br/>
-with Ruichi Xiong, Shan Zhao <br/>
+**Fanghao Chen**<sup>*</sup>, Ruichi Xiong, Shan Zhao <br/>
 <em> **China Economic Review** </em>, 2025, 94, 102538 <br/>
 
 **[The Economic Welfare Impacts of Transnational Clan Networks: Evidence from Transnational Clan Genealogies](https://www.sciencedirect.com/science/article/pii/S2666933125000024)** <br/>
