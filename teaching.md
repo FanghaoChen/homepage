@@ -1,7 +1,10 @@
 [HOME](./index.md) | [CV](./assets/FanghaoChen_CV_260621.pdf) | [RESEARCH](./research.md) | [**TEACHING**](./teaching.md) | [中文](./chinesepage.md) | [DATA & LINKS](./links.md)
 
 # AI for Economics
+
 **[AI时代下的经管科研工作流重构](https://my.feishu.cn/wiki/EofHw1HRhiNB1jkdzR9cQJhrnPe)**  <br/>
+
+**[办公提效新技能：行政办公必备AI实用工具课](https://my.feishu.cn/wiki/XQTkw2VwliuPl3klXXHcon7anCh)**  <br/>
 
 # 2025年春季学期
 
