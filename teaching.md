@@ -1,6 +1,6 @@
 [HOME](./index.md) | [CV](./assets/FanghaoChen_CV_260621.pdf) | [RESEARCH](./research.md) | [**TEACHING**](./teaching.md) | [中文](./chinesepage.md) | [DATA & LINKS](./links.md)
 
-# AI for Economics
+# AI for Office and Research
 
 **[AI时代下的经管科研工作流重构](https://my.feishu.cn/wiki/EofHw1HRhiNB1jkdzR9cQJhrnPe)**  <br/>
 
