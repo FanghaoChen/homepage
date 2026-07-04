@@ -82,15 +82,15 @@ with Shengkai Zhou, Baojian Xie, Zhanchi Wu <br/>
 **Rerouted Supply Chains** <br/>
 with Yibuo Zuo, Wenjing Li, Zhihang Zhou
 
-**Fund and Fire: Sun Yat-sen and Revolutionary Diaspora** <br/>
+**Sun Yat-sen and Diaspora** <br/>
 with Yuchen Xu, Zhanchi Wu, Jiancheng He
 
-**Input-Output Linkages and Industrial Development: Evidence from China** <br/>
+**Industrial Linkages and Industrial Development** <br/>
 with Loren Brandt, Gilles Duranton
 
 **Spatial Dynamics of Industrial Clusters** <br/>
 with Zhongchen Fan
 
-**Tides of Openness: China’s Policy Journey** <br/>
+**Tides of Openness: China's Policy Journey** <br/>
 
 <!---  comment syntax --->
