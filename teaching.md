@@ -1,6 +1,6 @@
 [HOME](./index.md) | [CV](./assets/FanghaoChen_CV_260621.pdf) | [RESEARCH](./research.md) | [**TEACHING**](./teaching.md) | [中文](./chinesepage.md) | [DATA & LINKS](./links.md)
 
-# AI Workflow
+## AI Workflow
 
 **[AI时代下的经管科研工作流重构](https://my.feishu.cn/wiki/EofHw1HRhiNB1jkdzR9cQJhrnPe)**  <br/>
 
@@ -8,7 +8,7 @@
 
 ---
 
-# 2026年秋季学期
+## 2026年秋季学期
 
 **国际财务管理（本科生）** <br/>
 
@@ -16,7 +16,7 @@
 
 ---
 
-# 2026年春季学期
+## 2026年春季学期
 
 **[投资学（本科生)](https://my.feishu.cn/wiki/ScLIwwHIDikI68kNJMgc0xVon9t)**  <br/>
 密码：2026-教室号
@@ -26,10 +26,14 @@
 
 ---
 
-# 曾经讲授课程
+<!---  
+
+## 曾经讲授课程
 
 **国际投资 (本科生)** <br/>
+
 <!---  
+
 [课程大纲](./assets/国际投资_课程大纲.pdf) <br/>
 [小组路演的说明](./assets/关于小组路演的说明.pdf) <br/>
 [期末安排](./assets/期末安排.pdf)
@@ -64,5 +68,7 @@
 **宏观经济学 (外招博士生)** <br/>
 
  **城市经济与珠三角都市圈研究 (硕士生)** <br/>
+
+--->
 
 <!--- comment syntax --->
