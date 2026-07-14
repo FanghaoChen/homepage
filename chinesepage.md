@@ -10,12 +10,12 @@
 
 ## 媒体影响力
 
-## 权威媒体 <br/>
+### 权威媒体 <br/>
 [《“侨智”架桥 赋能中国新质生产力发展》](https://news.ycwb.com/2024-12/20/content_53131878.htm), 2024年12月，羊城晚报  <br/>
 [《侨商是广东走向高质量发展的重要助力》](https://m.21jingji.com/article/20230226/herald/e2e4d3fb4d0065ef936414ad29c15860.html), 2023年2月，21世纪经济报道  <br/>
 [《广东锻造制造业当家“主心骨”》](https://new.qq.com/rain/a/20230104A01NGR00)，2023年1月，南方日报
 
-## 公众号/小红书：渡海方程 <br/>
+### 公众号/小红书：渡海方程 <br/>
 
 <img src="./assets/img/duhai-fangcheng-logo.png" alt="渡海方程公众号 logo" width="240" />
 
