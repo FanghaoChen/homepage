@@ -6,7 +6,7 @@ layout: default
 [**HOME**](./index.md) | [CV](./assets/FanghaoChen_CV_260621.pdf) | [RESEARCH](./research.md) | [TEACHING](./teaching.md) | [中文](./chinesepage.md) | [DATA & LINKS](./links.md)
 
 
-**✦ Visit my new interactive homepage / 欢迎访问我的新主页：[fanghaochen.github.io](https://fanghaochen.github.io/) ✦**
+**✦ I no longer update this site, Visit my new homepage / 我不再更新此网址，欢迎访问我的新主页：[fanghaochen.github.io](https://fanghaochen.github.io/) ✦**
 
 ---
 
